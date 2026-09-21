@@ -1,1 +1,1 @@
-*.brp binary linguist-generated=true
+*.brp binary -diff linguist-generated=true
