@@ -1,0 +1,3439 @@
+module "github.com/tychonis/pnp" {}
+
+item "b_MakerBot_LimitSwitchBoard1_001_" {
+    label = "MakerBot LimitSwitchBoard1_MakerBot LimitSwitchBoard_001"
+
+    artifact "model" {
+        filename = "8e84dad6.brp"
+        source = "file://artifact/8e84dad6.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0005_y_gantry_001_" {
+    label = "FDM-0005_y-gantry_Body_001"
+
+    artifact "model" {
+        filename = "ff5c3305.brp"
+        source = "file://artifact/ff5c3305.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0009_20x20_v_slot_600mm1_001_" {
+    label = "OTS-0009_20x20_v_slot_600mm1_20x20_v_slot_600mm v2_001"
+
+    artifact "model" {
+        filename = "d632df1e.brp"
+        source = "file://artifact/d632df1e.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0006_x_motor_mount_001_" {
+    label = "FDM-0006_x-motor-mount_Body_001"
+
+    artifact "model" {
+        filename = "6bcce289.brp"
+        source = "file://artifact/6bcce289.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0013_x_idler_mount_001_" {
+    label = "FDM-0013_x-idler-mount_Body_001"
+
+    artifact "model" {
+        filename = "0b21d45d.brp"
+        source = "file://artifact/0b21d45d.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0010_y_gantry_umbilical_mount_001_" {
+    label = "FDM-0010_y-gantry-umbilical-mount_Body_001"
+
+    artifact "model" {
+        filename = "493c1771.brp"
+        source = "file://artifact/493c1771.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0008_y_gantry_support_001_" {
+    label = "FDM-0008_y-gantry-support_Body_001"
+
+    artifact "model" {
+        filename = "3690b535.brp"
+        source = "file://artifact/3690b535.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0009_roller_spacer_001_" {
+    label = "FDM-0009_roller-spacer_Body_001"
+
+    artifact "model" {
+        filename = "cf29b1ea.brp"
+        source = "file://artifact/cf29b1ea.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0011_v_slot_roller1_001_" {
+    label = "OTS-0011_v-slot-roller1_001"
+
+    artifact "model" {
+        filename = "18753cd2.brp"
+        source = "file://artifact/18753cd2.brp"
+        tag = "model"
+    }
+}
+
+item "Screw" {
+    label = "M5x40-Screw283"
+
+    artifact "model" {
+        filename = "9c7ee520.brp"
+        source = "file://artifact/9c7ee520.brp"
+        tag = "model"
+    }
+}
+
+item "Nut003" {
+    label = "M5-Nut"
+
+    artifact "model" {
+        filename = "9e435441.brp"
+        source = "file://artifact/9e435441.brp"
+        tag = "model"
+    }
+}
+
+item "Screw006" {
+    label = "M3x16-Screw"
+
+    artifact "model" {
+        filename = "29a2a665.brp"
+        source = "file://artifact/29a2a665.brp"
+        tag = "model"
+    }
+}
+
+item "Nut006" {
+    label = "M3-Nut"
+
+    artifact "model" {
+        filename = "8a161b7b.brp"
+        source = "file://artifact/8a161b7b.brp"
+        tag = "model"
+    }
+}
+
+item "Screw008" {
+    label = "M5x25-Screw"
+
+    artifact "model" {
+        filename = "8e08a6a6.brp"
+        source = "file://artifact/8e08a6a6.brp"
+        tag = "model"
+    }
+}
+
+item "Screw020" {
+    label = "M3x16-Screw043"
+
+    artifact "model" {
+        filename = "bff46ec2.brp"
+        source = "file://artifact/bff46ec2.brp"
+        tag = "model"
+    }
+}
+
+item "Nut020" {
+    label = "M3-Nut232"
+
+    artifact "model" {
+        filename = "cf1376bf.brp"
+        source = "file://artifact/cf1376bf.brp"
+        tag = "model"
+    }
+}
+
+item "Screw022" {
+    label = "M5x10-Screw"
+
+    artifact "model" {
+        filename = "948ff184.brp"
+        source = "file://artifact/948ff184.brp"
+        tag = "model"
+    }
+}
+
+item "b_M5_tslot_nut1_001_" {
+    label = "M5-tslot-nut1_T_Slot_Nut_Dropin_M5 v1_001"
+
+    artifact "model" {
+        filename = "c4994681.brp"
+        source = "file://artifact/c4994681.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0027_belt_clamp_001_" {
+    label = "FDM-0027_belt-clamp_Body_001"
+
+    artifact "model" {
+        filename = "093e6854.brp"
+        source = "file://artifact/093e6854.brp"
+        tag = "model"
+    }
+}
+
+item "Screw085" {
+    label = "M3x8-Screw254"
+
+    artifact "model" {
+        filename = "fe5b4e86.brp"
+        source = "file://artifact/fe5b4e86.brp"
+        tag = "model"
+    }
+}
+
+item "b_front_leg_tensioner_001_" {
+    label = "front-leg-tensioner_Body_001"
+
+    artifact "model" {
+        filename = "d566b2e6.brp"
+        source = "file://artifact/d566b2e6.brp"
+        tag = "model"
+    }
+}
+
+item "b_Nema_17_42A02C_v21_001_" {
+    label = "Nema 17 42A02C v21_ Nema 17 42A02C v2_001"
+
+    artifact "model" {
+        filename = "ddbd62d3.brp"
+        source = "file://artifact/ddbd62d3.brp"
+        tag = "model"
+    }
+}
+
+item "Nut" {
+    label = "M5-Nut478"
+
+    artifact "model" {
+        filename = "1857025f.brp"
+        source = "file://artifact/1857025f.brp"
+        tag = "model"
+    }
+}
+
+item "b_Gates_2GT_20T_Toothed_Pulley1_001_" {
+    label = "Gates_2GT_20T_Toothed_Pulley1_Gates_2GT_20T_Toothed_Pulley_001"
+
+    artifact "model" {
+        filename = "e4a19ad8.brp"
+        source = "file://artifact/e4a19ad8.brp"
+        tag = "model"
+    }
+}
+
+item "b_Gates_2GT_20T_Toothed_Idler1_001_" {
+    label = "Gates_2GT_20T_Toothed_Idler1_Gates_2GT_20T_Toothed_Idler_001"
+
+    artifact "model" {
+        filename = "84de90c5.brp"
+        source = "file://artifact/84de90c5.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0005_00_zip_tie_001_002" {
+    label = "OTS-0005-00_zip-tie_Body_003"
+
+    artifact "model" {
+        filename = "710fded2.brp"
+        source = "file://artifact/710fded2.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0002_00_usb_webcam_001_" {
+    label = "OTS-0002-00_usb-webcam_Body_001"
+
+    artifact "model" {
+        filename = "01a9adca.brp"
+        source = "file://artifact/01a9adca.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0011_x_gantry_front_001_" {
+    label = "FDM-0011_x-gantry-front_Body_001"
+
+    artifact "model" {
+        filename = "d4ba875d.brp"
+        source = "file://artifact/d4ba875d.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0012_x_gantry_back_001_" {
+    label = "FDM-0012_x-gantry-back_Body_001"
+
+    artifact "model" {
+        filename = "80811896.brp"
+        source = "file://artifact/80811896.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0014_down_camera_mount_001_" {
+    label = "FDM-0014_down-camera-mount_Body_001"
+
+    artifact "model" {
+        filename = "73d863e2.brp"
+        source = "file://artifact/73d863e2.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0015_down_light_mount_001_" {
+    label = "FDM-0015_down-light-mount_Body_001"
+
+    artifact "model" {
+        filename = "b6a77590.brp"
+        source = "file://artifact/b6a77590.brp"
+        tag = "model"
+    }
+}
+
+item "Nut021" {
+    label = "M5-Nut476"
+
+    artifact "model" {
+        filename = "27470380.brp"
+        source = "file://artifact/27470380.brp"
+        tag = "model"
+    }
+}
+
+item "Screw038" {
+    label = "M5x10-Screw222"
+
+    artifact "model" {
+        filename = "17c30684.brp"
+        source = "file://artifact/17c30684.brp"
+        tag = "model"
+    }
+}
+
+item "Screw045" {
+    label = "M3x14-Screw"
+
+    artifact "model" {
+        filename = "474355f6.brp"
+        source = "file://artifact/474355f6.brp"
+        tag = "model"
+    }
+}
+
+item "Screw044" {
+    label = "M5x25-Screw084"
+
+    artifact "model" {
+        filename = "aba41c3e.brp"
+        source = "file://artifact/aba41c3e.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0040_z_gantry_backplate_left_001_" {
+    label = "FDM-0040_z-gantry-backplate-left_001"
+
+    artifact "model" {
+        filename = "7373f966.brp"
+        source = "file://artifact/7373f966.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0017_z_gantry_left_001_" {
+    label = "FDM-0017_z-gantry-left_Body_001"
+
+    artifact "model" {
+        filename = "aff26ad1.brp"
+        source = "file://artifact/aff26ad1.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0001_00_CP40_nozzle_holder_001_" {
+    label = "OTS-0001-00_CP40-nozzle-holder_Body_001"
+
+    artifact "model" {
+        filename = "d2296d9e.brp"
+        source = "file://artifact/d2296d9e.brp"
+        tag = "model"
+    }
+}
+
+item "b_MS4M_M51_001_" {
+    label = "MS4M-M51_MS4M-M5_001"
+
+    artifact "model" {
+        filename = "f53ae315.brp"
+        source = "file://artifact/f53ae315.brp"
+        tag = "model"
+    }
+}
+
+item "b_smc_stepper1_001_" {
+    label = "nema11-hollow-shaft-stepper"
+
+    artifact "model" {
+        filename = "a10315f5.brp"
+        source = "file://artifact/a10315f5.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0041_z_gantry_backplate_right_001_" {
+    label = "FDM-0041_z-gantry-backplate-right_Body_001"
+
+    artifact "model" {
+        filename = "0e80d2fd.brp"
+        source = "file://artifact/0e80d2fd.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0039_z_gantry_right_001_" {
+    label = "FDM-0039_z-gantry-right_Body_001"
+
+    artifact "model" {
+        filename = "28953298.brp"
+        source = "file://artifact/28953298.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0043_001_" {
+    label = "FDM-0043_001"
+
+    artifact "model" {
+        filename = "5938f18d.brp"
+        source = "file://artifact/5938f18d.brp"
+        tag = "model"
+    }
+}
+
+item "Screw164" {
+    label = "M3x30-Screw"
+
+    artifact "model" {
+        filename = "03e07fe0.brp"
+        source = "file://artifact/03e07fe0.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0001_front_left_leg_001_" {
+    label = "FDM-0001_front-left-leg_Body_001"
+
+    artifact "model" {
+        filename = "6c4b9650.brp"
+        source = "file://artifact/6c4b9650.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0007_frame_umbilical_mount_001_" {
+    label = "FDM-0007_frame-umbilical-mount_Body_001"
+
+    artifact "model" {
+        filename = "3e2636fc.brp"
+        source = "file://artifact/3e2636fc.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0002_front_right_leg_001_001" {
+    label = "FDM-0002_front-right-leg_Body_001"
+
+    artifact "model" {
+        filename = "ce0ae587.brp"
+        source = "file://artifact/ce0ae587.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0003_back_left_leg_001_" {
+    label = "FDM-0003_back-left-leg_Body_001"
+
+    artifact "model" {
+        filename = "6ffcc699.brp"
+        source = "file://artifact/6ffcc699.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0004_back_right_leg_001_" {
+    label = "FDM-0004_back-right-leg_Body_001"
+
+    artifact "model" {
+        filename = "7f9fe429.brp"
+        source = "file://artifact/7f9fe429.brp"
+        tag = "model"
+    }
+}
+
+item "Screw073" {
+    label = "M5x8-Screw093"
+
+    artifact "model" {
+        filename = "0cb57726.brp"
+        source = "file://artifact/0cb57726.brp"
+        tag = "model"
+    }
+}
+
+item "b_2020CornerBracket1_001_" {
+    label = "2020CornerBracket1_FusionComponent_001"
+
+    artifact "model" {
+        filename = "807bb61d.brp"
+        source = "file://artifact/807bb61d.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0022_umbilical_guide_001_" {
+    label = "FDM-0022_umbilical-guide_Body_001"
+
+    artifact "model" {
+        filename = "f78c1ca3.brp"
+        source = "file://artifact/f78c1ca3.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0019_up_light_mount_001_" {
+    label = "FDM-0019_up-light-mount_Body_001"
+
+    artifact "model" {
+        filename = "74fc6426.brp"
+        source = "file://artifact/74fc6426.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0020_up_camera_mount_001_" {
+    label = "FDM-0020_up-camera-mount_Body_001"
+
+    artifact "model" {
+        filename = "d5052363.brp"
+        source = "file://artifact/d5052363.brp"
+        tag = "model"
+    }
+}
+
+item "Screw174" {
+    label = "M3x30-Screw062"
+
+    artifact "model" {
+        filename = "aed318e9.brp"
+        source = "file://artifact/aed318e9.brp"
+        tag = "model"
+    }
+}
+
+item "Screw139" {
+    label = "M3x10-Screw051"
+
+    artifact "model" {
+        filename = "78ff5696.brp"
+        source = "file://artifact/78ff5696.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0024_nozzle_holder_001_" {
+    label = "FDM-0024_nozzle-holder_Body_001"
+
+    artifact "model" {
+        filename = "85cba0b4.brp"
+        source = "file://artifact/85cba0b4.brp"
+        tag = "model"
+    }
+}
+
+item "Screw159" {
+    label = "M2.5x8-Screw059"
+
+    artifact "model" {
+        filename = "9e261ce7.brp"
+        source = "file://artifact/9e261ce7.brp"
+        tag = "model"
+    }
+}
+
+item "b_CSM_0001_staging_plate_001_" {
+    label = "CSM-0001_staging-plate_Body_001"
+
+    artifact "model" {
+        filename = "f8a46726.brp"
+        source = "file://artifact/f8a46726.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0003_00_vacuum_pump_001_001" {
+    label = "OTS-0003-00_vacuum-pump_Body_002"
+
+    artifact "model" {
+        filename = "b39d7f87.brp"
+        source = "file://artifact/b39d7f87.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0025_pump_mount_001_001" {
+    label = "FDM-0025_pump-mount_Body_002"
+
+    artifact "model" {
+        filename = "f9738c92.brp"
+        source = "file://artifact/f9738c92.brp"
+        tag = "model"
+    }
+}
+
+item "b_24v_3_Way_Solenoid_Valve_0526T_www_fspump_cn_001_" {
+    label = "24v_3-Way_Solenoid_Valve_0526T_www.fspump.cn_001"
+
+    artifact "model" {
+        filename = "f4dfd606.brp"
+        source = "file://artifact/f4dfd606.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0020_index_motherboard1_001_" {
+    label = "PCB-0001-00_index_motherboard"
+
+    artifact "model" {
+        filename = "f9d2c3f2.brp"
+        source = "file://artifact/f9d2c3f2.brp"
+        tag = "model"
+    }
+}
+
+item "Screw185" {
+    label = "M2.5x20-Screw"
+
+    artifact "model" {
+        filename = "b09d7c61.brp"
+        source = "file://artifact/b09d7c61.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0046_umbilical_swivel_base_001_" {
+    label = "FDM-0046_umbilical-swivel-base_Body_001"
+
+    artifact "model" {
+        filename = "b0afd3c1.brp"
+        source = "file://artifact/b0afd3c1.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0047_umbilical_swivel_extension_001_" {
+    label = "FDM-0047_umbilical-swivel-extension_Body_001"
+
+    artifact "model" {
+        filename = "132c7947.brp"
+        source = "file://artifact/132c7947.brp"
+        tag = "model"
+    }
+}
+
+item "PcbSpacer" {
+    label = "M3x5.5x25-Spacer"
+
+    artifact "model" {
+        filename = "4ba36571.brp"
+        source = "file://artifact/4ba36571.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0055_datum_board_mount_001_" {
+    label = "FDM-0055_datum-board-mount_Body_001"
+
+    artifact "model" {
+        filename = "c6fd3231.brp"
+        source = "file://artifact/c6fd3231.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0042_valve_mount_001_" {
+    label = "FDM-0042_valve-mount_001"
+
+    artifact "model" {
+        filename = "b8aba183.brp"
+        source = "file://artifact/b8aba183.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0023_peek_cable_guide_001_" {
+    label = "FDM-0023_peek-cable-guide_001"
+
+    artifact "model" {
+        filename = "68a93f5c.brp"
+        source = "file://artifact/68a93f5c.brp"
+        tag = "model"
+    }
+}
+
+item "b_PCB_0002_00_Datum_OpenPNPcalibration1_001_" {
+    label = "PCB-0002-00_Datum-OpenPNPcalibration1_001"
+
+    artifact "model" {
+        filename = "a13f05ec.brp"
+        source = "file://artifact/a13f05ec.brp"
+        tag = "model"
+    }
+}
+
+item "b_FDM_0016_cable_clip_001_" {
+    label = "FDM-0016_cable-clip_001"
+
+    artifact "model" {
+        filename = "d00f2ab7.brp"
+        source = "file://artifact/d00f2ab7.brp"
+        tag = "model"
+    }
+}
+
+item "b_PCB_0003_00_RingLight1_001_" {
+    label = "PCB-0003-00_RingLight1_001"
+
+    artifact "model" {
+        filename = "a99aaca5.brp"
+        source = "file://artifact/a99aaca5.brp"
+        tag = "model"
+    }
+}
+
+item "Screw216" {
+    label = "M2.5x8-Screw096"
+
+    artifact "model" {
+        filename = "142c8884.brp"
+        source = "file://artifact/142c8884.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0009_pneumatic_splitter_URY6M_4M1_001_" {
+    label = "OTS-0009_pneumatic-splitter-URY6M-4M1_001"
+
+    artifact "model" {
+        filename = "750250f8.brp"
+        source = "file://artifact/750250f8.brp"
+        tag = "model"
+    }
+}
+
+item "b_FST_0017_M3_cap_nut1_001_" {
+    label = "FST-0017_M3-cap-nut1_001"
+
+    artifact "model" {
+        filename = "bbbde8ea.brp"
+        source = "file://artifact/bbbde8ea.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0014_linear_rail_100mm_LML9B1_001_" {
+    label = "OTS-0014_linear-rail-100mm-LML9B1_001"
+
+    artifact "model" {
+        filename = "1b3e62b4.brp"
+        source = "file://artifact/1b3e62b4.brp"
+        tag = "model"
+    }
+}
+
+item "b_OTS_0014_linear_rail_100mm_LML9B1_001_001" {
+    label = "OTS-0014_linear-rail-100mm-LML9B1_002"
+
+    artifact "model" {
+        filename = "ac822c40.brp"
+        source = "file://artifact/ac822c40.brp"
+        tag = "model"
+    }
+}
+
+item "Group001" {
+    label = "Y Gantry"
+
+    from = [
+        {
+            name = "b_MakerBot_LimitSwitchBoard1_001_001"
+            ref = b_MakerBot_LimitSwitchBoard1_001_
+            qty = 1
+            placement = [0.0, -0.0, -0.7071067811865475, 0.7071067811865476, -0.1922088494873047, 0.15599340881347662, -0.027832570190429704]
+        },
+        {
+            name = "b_FDM_0005_y_gantry_001_"
+            ref = b_FDM_0005_y_gantry_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.20912840576171873, 0.13393515991210939, 0.011935207519531268]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_003"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.21918288269042968, 0.13393628784179687, 5.7360839843754e-05]
+        },
+        {
+            name = "b_FDM_0005_y_gantry_001_001"
+            ref = b_FDM_0005_y_gantry_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.20911356201171877, 0.13401885253906246, -0.6122183325195313]
+        },
+        {
+            name = "b_FDM_0006_x_motor_mount_001_"
+            ref = b_FDM_0006_x_motor_mount_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.20915272216796876, 0.13398502868652343, 0.02194551696777345]
+        },
+        {
+            name = "b_FDM_0013_x_idler_mount_001_"
+            ref = b_FDM_0013_x_idler_mount_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.20910645751953127, 0.12403674255371096, -0.6222366162109374]
+        },
+        {
+            name = "b_FDM_0010_y_gantry_umbilical_mount_001_"
+            ref = b_FDM_0010_y_gantry_umbilical_mount_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.2605958129882812, 0.1339782873535156, 0.02203797149658204]
+        },
+        {
+            name = "b_FDM_0008_y_gantry_support_001_"
+            ref = b_FDM_0008_y_gantry_support_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.2091337023925781, 0.07421535339355467, -0.032060276184082026]
+        },
+        {
+            name = "b_FDM_0008_y_gantry_support_001_001"
+            ref = b_FDM_0008_y_gantry_support_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.2091189697265625, 0.07422250823974609, -0.568144893798828]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.209128056640625, 0.08034804748535157, -0.022072834472656254]
+        },
+        {
+            name = "b_v_slot_roller1_001_"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.21386367187500002, 0.11669940002441405, -0.010774571228027347]
+        },
+        {
+            name = "b_v_slot_roller1_001_001"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.17387694152832028, 0.11665805175781249, -0.01072116447448731]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_001"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20916666687011717, 0.08035239471435547, 0.001944618225097653]
+        },
+        {
+            name = "b_v_slot_roller1_001_002"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.19386162353515624, 0.0773523178100586, -0.01079096618652344]
+        },
+        {
+            name = "Screw003"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18916, 0.11974, 0.0069500000000000004]
+        },
+        {
+            name = "Screw004"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.22911, 0.11974, 0.0069500000000000004]
+        },
+        {
+            name = "Screw005"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.20915, 0.08034000000000001, 0.0069500000000000004]
+        },
+        {
+            name = "Nut003"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.22904999999999995, 0.11968899346400577, -0.028145937244971254]
+        },
+        {
+            name = "Nut004"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18900757874271779, 0.11971348538831705, -0.028145937244971254]
+        },
+        {
+            name = "Nut005"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.20910846096908253, 0.08034923468133912, -0.028145937244971254]
+        },
+        {
+            name = "Screw006"
+            ref = Screw006
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20915000000000003, 0.06189000000000001, -0.026029999999999998]
+        },
+        {
+            name = "Screw007"
+            ref = Screw006
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20915000000000003, 0.061890000000000014, 0.005930000000000003]
+        },
+        {
+            name = "Nut006"
+            ref = Nut006
+            qty = 1
+            placement = [0.6830127018922194, -0.1830127018922193, 0.1830127018922193, 0.6830127018922194, -0.20915562177826494, 0.06838, 0.00575437822173509]
+        },
+        {
+            name = "Nut007"
+            ref = Nut006
+            qty = 1
+            placement = [0.6830127018922194, -0.1830127018922193, 0.1830127018922193, 0.6830127018922194, -0.20906944493632396, 0.06845, -0.026134884446942487]
+        },
+        {
+            name = "Nut008"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18165194179762542, 0.1413731484773864, 0.00670406275502874]
+        },
+        {
+            name = "Nut009"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18160380898290157, 0.15646977999677336, 0.00670406275502874]
+        },
+        {
+            name = "Nut010"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.2366035797272679, 0.15641217733065613, 0.00670406275502874]
+        },
+        {
+            name = "Nut011"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23663109076372682, 0.141419827843572, 0.00670406275502874]
+        },
+        {
+            name = "Screw008"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.23629000000000003, 0.1415, 0.027319999999999987]
+        },
+        {
+            name = "Screw009"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18143, 0.14129, 0.022199999999999984]
+        },
+        {
+            name = "Screw010"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18143, 0.1565, 0.022199999999999984]
+        },
+        {
+            name = "Screw011"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.23629000000000003, 0.15625, 0.027319999999999987]
+        },
+        {
+            name = "Screw012"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18149999999999994, 0.15655000000000002, -0.62224]
+        },
+        {
+            name = "Screw013"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18149999999999994, 0.14161, -0.6221800000000001]
+        },
+        {
+            name = "Screw014"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.23653999999999994, 0.14156, -0.62222]
+        },
+        {
+            name = "Screw015"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.23653999999999994, 0.1565, -0.6222400000000001]
+        },
+        {
+            name = "Nut012"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23661912923949976, 0.14151910987587474, -0.6036059372449711]
+        },
+        {
+            name = "Nut013"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.2366016182030408, 0.15652877987103458, -0.6035359372449712]
+        },
+        {
+            name = "Nut014"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.1816561294909772, 0.1565204017750382, -0.6036659372449712]
+        },
+        {
+            name = "Nut015"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18155971747898206, 0.14155341127180274, -0.6036459372449712]
+        },
+        {
+            name = "Screw016"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18909, 0.11982, -0.60725]
+        },
+        {
+            name = "b_v_slot_roller1_001_006"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, -0.5, -0.18611702026367186, 0.13500507629394534, -0.5908295043945312]
+        },
+        {
+            name = "b_v_slot_roller1_001_007"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.213810234375, 0.11672226806640626, -0.5908531176757813]
+        },
+        {
+            name = "Screw017"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.2291, 0.11982, -0.60725]
+        },
+        {
+            name = "Screw018"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.20912, 0.08038, -0.60725]
+        },
+        {
+            name = "b_v_slot_roller1_001_008"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.193810234375, 0.07737226806640625, -0.5908531176757813]
+        },
+        {
+            name = "Nut016"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.20908015969889332, 0.08040021544345266, -0.5686259372449712]
+        },
+        {
+            name = "Nut017"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.1890339184886799, 0.11977910716658197, -0.5686259372449712]
+        },
+        {
+            name = "Nut018"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.22909866025403772, 0.11975327549630854, -0.5686259372449712]
+        },
+        {
+            name = "Screw019"
+            ref = Screw006
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20915000000000003, 0.06188999999999989, -0.57413]
+        },
+        {
+            name = "Screw020"
+            ref = Screw020
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20912000000000003, 0.06188999999999988, -0.60522]
+        },
+        {
+            name = "Nut019"
+            ref = Nut006
+            qty = 1
+            placement = [0.6830127018922194, -0.1830127018922193, 0.1830127018922193, 0.6830127018922194, -0.2092355721782441, 0.06844000000000011, -0.5743671436234157]
+        },
+        {
+            name = "Nut020"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.20913267718776601, 0.0684600000000001, -0.6052362829038697]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_002"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20916666687011717, 0.0803523947143556, -0.5781053817749023]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_003"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.20916666687011717, 0.0803523947143556, -0.6021553817749024]
+        },
+        {
+            name = "Screw021"
+            ref = Screw
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.1941, 0.16396999999999998, -0.6342300000000002]
+        },
+        {
+            name = "Screw022"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20922, 0.15894000000000003, -0.018100000000000012]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.20941160278320314, 0.14890457153320313, -0.018028211975097668]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_001"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.20941160278320314, 0.14890457153320313, -0.5821282119750977]
+        },
+        {
+            name = "Screw023"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.20922, 0.15894000000000014, -0.58217]
+        },
+        {
+            name = "Screw025"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.2361, 0.09145000000000003, 0.015239999999999988]
+        },
+        {
+            name = "b_FDM_0027_belt_clamp_001_"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.23612554931640625, 0.09894084777832031, 0.012048065032958985]
+        },
+        {
+            name = "Screw026"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.2361, 0.10647000000000002, 0.015239999999999988]
+        },
+        {
+            name = "Screw027"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18219, 0.10647000000000002, 0.015239999999999988]
+        },
+        {
+            name = "Screw028"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18219, 0.09150000000000003, 0.015239999999999988]
+        },
+        {
+            name = "b_FDM_0027_belt_clamp_001_001"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.18217554931640623, 0.09894084777832031, 0.012048065032958985]
+        },
+        {
+            name = "Screw121"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19065000000000001, 0.15835, -0.032969999999999985]
+        },
+        {
+            name = "Screw122"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19065000000000001, 0.13948999999999998, -0.03301999999999998]
+        },
+        {
+            name = "Screw099"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.22463000000000002, 0.15888000000000005, 0.05896999999999991]
+        },
+        {
+            name = "Screw097"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.22463000000000002, 0.15888000000000005, 0.027959999999999912]
+        },
+        {
+            name = "Screw100"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.19361, 0.15888000000000005, 0.05896999999999991]
+        },
+        {
+            name = "Screw098"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.19361, 0.15888000000000005, 0.027959999999999912]
+        },
+        {
+            name = "Screw059"
+            ref = Screw008
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.20926999999999996, 0.15408000000000002, -0.6341700000000002]
+        },
+        {
+            name = "b_front_leg_tensioner_001_001"
+            ref = b_front_leg_tensioner_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.1892262371826172, 0.13406667175292966, -0.6291634326171874]
+        },
+        {
+            name = "Screw060"
+            ref = Screw006
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.22421000000000005, 0.14407999999999987, -0.63825]
+        },
+        {
+            name = "Screw058"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.23611, 0.10653000000000001, -0.61537]
+        },
+        {
+            name = "Screw057"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.23611, 0.09154000000000002, -0.61537]
+        },
+        {
+            name = "Screw056"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18219, 0.09154000000000002, -0.61537]
+        },
+        {
+            name = "b_FDM_0027_belt_clamp_001_005"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18215554931640623, 0.09894084777832031, -0.612401934967041]
+        },
+        {
+            name = "b_FDM_0027_belt_clamp_001_004"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.23612554931640625, 0.0990108477783203, -0.612401934967041]
+        },
+        {
+            name = "b_Nema_17_42A02C_v21_001_001"
+            ref = b_Nema_17_42A02C_v21_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.2091380368041993, 0.15395757080078135, 0.0434338079833985]
+        },
+        {
+            name = "Nut043"
+            ref = Nut
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, 4e-16, 0.7071067811865476, -0.20926912923949975, 0.13421910987587474, -0.6341659372449712]
+        },
+        {
+            name = "Nut042"
+            ref = Nut
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922193, 0.6830127018922195, -0.1830127018922196, -0.19415015279280273, 0.12895703379026016, -0.6342242348141975]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Pulley1_001_001"
+            ref = b_Gates_2GT_20T_Toothed_Pulley1_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.20913938049316408, 0.15522055419921876, 0.04341958007812498]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Idler1_001_002"
+            ref = b_Gates_2GT_20T_Toothed_Idler1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.20928640747070315, 0.13899034423828133, -0.6341785998535158]
+        },
+        {
+            name = "Screw055"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 0.0, -0.18219, 0.10647000000000002, -0.61537]
+        },
+        {
+            name = "Nut037"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.1821849678158636, 0.09143637662273127, 0.00889406275502874]
+        },
+        {
+            name = "Nut035"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23608620211998657, 0.1065160530281466, 0.00889406275502874]
+        },
+        {
+            name = "Nut041"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23609254186594866, 0.10654703379026016, -0.605675937244971]
+        },
+        {
+            name = "Nut040"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23607175163221839, 0.09157102404913814, -0.605675937244971]
+        },
+        {
+            name = "Nut036"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18214879652536684, 0.10643372610981545, 0.00889406275502874]
+        },
+        {
+            name = "Nut034"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.23607273239433202, 0.09151272277894891, 0.00889406275502874]
+        },
+        {
+            name = "Nut039"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.1821491555092154, 0.10651434788808037, -0.605675937244971]
+        },
+        {
+            name = "Nut038"
+            ref = Nut003
+            qty = 1
+            placement = [-0.2588190451025213, 0.9659258262890681, 0.0, 0.0, -0.18216800629163654, 0.09152699840099619, -0.605675937244971]
+        },
+        {
+            name = "b_FST_0017_M3_cap_nut1_001_001"
+            ref = b_FST_0017_M3_cap_nut1_001_
+            qty = 1
+            placement = [0.0, 1.0, 0.0, 1e-16, -0.22419246826171874, 0.14427684631347654, -0.62628818359375]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_004"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.25094117431640633, 0.2281766174316407, 0.05077150115966836]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_005"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.25094117431640633, 0.17287661743164068, 0.05077150115966837]
+        },
+        {
+            name = "Nut044"
+            ref = Nut006
+            qty = 1
+            placement = [-1e-16, 5e-16, 0.2588190451025202, 0.9659258262890684, -0.22420878046412884, 0.14407096189432347, -0.632154214653421]
+        }]
+}
+
+item "Group009" {
+    label = "Left-Z-Gantry"
+
+    from = [
+        {
+            name = "b_FDM_0040_z_gantry_backplate_left_001_"
+            ref = b_FDM_0040_z_gantry_backplate_left_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.1778, 0.1149, -0.1985]
+        },
+        {
+            name = "Screw144"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.15297999999999998, -0.20922]
+        },
+        {
+            name = "Screw146"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.15287, -0.22425]
+        },
+        {
+            name = "b_FDM_0017_z_gantry_left_001_"
+            ref = b_FDM_0017_z_gantry_left_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.1749, 0.114907, -0.198489]
+        },
+        {
+            name = "b_OTS_0001_00_CP40_nozzle_holder_001_"
+            ref = b_OTS_0001_00_CP40_nozzle_holder_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.15528999999999998, 0.0771245, -0.212648]
+        },
+        {
+            name = "b_MS4M_M51_001_"
+            ref = b_MS4M_M51_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.15533000000000002, 0.15185200000000001, -0.212752]
+        },
+        {
+            name = "b_smc_stepper1_001_"
+            ref = b_smc_stepper1_001_
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.15532692749023436, 0.13169461791992185, -0.21260789794921878]
+        },
+        {
+            name = "Screw201"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.14317000000000002, -0.22425]
+        },
+        {
+            name = "Screw202"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.14317000000000002, -0.20915]
+        },
+        {
+            name = "Screw216"
+            ref = Screw216
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14439999999999997, 0.11000000000000001, -0.20120000000000002]
+        },
+        {
+            name = "Screw217"
+            ref = Screw216
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14439999999999997, 0.11000000000000001, -0.22410000000000002]
+        },
+        {
+            name = "Screw218"
+            ref = Screw216
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.16729999999999998, 0.11000000000000001, -0.20110000000000003]
+        },
+        {
+            name = "Screw219"
+            ref = Screw216
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.16729999999999998, 0.11000000000000001, -0.22410000000000002]
+        }]
+}
+
+item "Group010" {
+    label = "Right-Z-Gantry"
+
+    from = [
+        {
+            name = "Screw148"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.14905000000000002, -0.24941999999999998]
+        },
+        {
+            name = "Screw149"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.14905000000000002, -0.26441000000000003]
+        },
+        {
+            name = "b_FDM_0041_z_gantry_backplate_right_001_"
+            ref = b_FDM_0041_z_gantry_backplate_right_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17801877746582032, 0.11108611602783204, -0.27523334960937496]
+        },
+        {
+            name = "b_FDM_0039_z_gantry_right_001_"
+            ref = b_FDM_0039_z_gantry_right_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17497920227050778, 0.11108740234375, -0.27514990234375]
+        },
+        {
+            name = "Screw199"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.13905, -0.24941999999999998]
+        },
+        {
+            name = "Screw200"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17194, 0.13905, -0.26441000000000003]
+        }]
+}
+
+item "Group002" {
+    label = "X Gantry"
+
+    from = [
+        {
+            name = "Group015"
+            ref = Group015
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group009"
+            ref = Group009
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group010"
+            ref = Group010
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group012"
+            ref = Group012
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group014"
+            ref = Group014
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group016"
+            ref = Group016
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group013"
+            ref = Group013
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        }]
+}
+
+item "Group004" {
+    label = "Front-Left-Leg"
+
+    from = [
+        {
+            name = "Screw125"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.06408999999999998, 0.10993999999999998, 0.011700000000000077]
+        },
+        {
+            name = "Screw126"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.06408999999999998, 0.09094999999999999, 0.011840000000000078]
+        },
+        {
+            name = "Screw101"
+            ref = Screw008
+            qty = 1
+            placement = [0.5, -0.5, 0.5, -0.5, 0.09523000000000001, 0.06496, -0.004920000000000014]
+        },
+        {
+            name = "Screw102"
+            ref = Screw008
+            qty = 1
+            placement = [0.5, -0.5, 0.5, -0.5, 0.09523000000000001, 0.04994000000000001, -0.004920000000000014]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_008"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, 0.07015839721679688, 0.10516457153320312, -0.009948211975097657]
+        },
+        {
+            name = "Nut048"
+            ref = Nut006
+            qty = 1
+            placement = [0.5, 0.5, 0.5, 0.5, 0.093169037476983, 0.09999000000000002, -0.024965621778265022]
+        },
+        {
+            name = "Nut045"
+            ref = Nut
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922193, 0.6830127018922195, -0.1830127018922196, 0.09749145404163255, 0.08390349847454558, 0.005038774186731744]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Idler1_001_001"
+            ref = b_Gates_2GT_20T_Toothed_Idler1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.09772359252929687, 0.09500034423828131, -0.010058599853515631]
+        },
+        {
+            name = "Nut033"
+            ref = Nut
+            qty = 1
+            placement = [-4e-16, 0.7071067811865476, -0.7071067811865475, 4e-16, 0.09756922972298919, 0.08996349847454557, -0.009975937244971252]
+        },
+        {
+            name = "Screw052"
+            ref = Screw006
+            qty = 1
+            placement = [0.5, 0.5, 0.5, 0.5, 0.10216000000000001, 0.1, -0.024990000000000005]
+        },
+        {
+            name = "Screw053"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.07016, 0.11496000000000002, -0.009890000000000022]
+        },
+        {
+            name = "Screw054"
+            ref = Screw008
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.09756999999999999, 0.10998000000000001, -0.009990000000000006]
+        },
+        {
+            name = "Screw035"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.045149999999999996, 0.030100000000000002, 0.004919999999999994]
+        },
+        {
+            name = "Screw036"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.07014, 0.030100000000000002, 0.004919999999999994]
+        },
+        {
+            name = "Screw037"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.02533, 0.009990000000000002, -0.00996000000000002]
+        },
+        {
+            name = "Screw051"
+            ref = Screw
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.09758, 0.11974, 0.004979999999999965]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_009"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, 0.07015839721679688, 0.03017457153320311, -0.004768211975097653]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_010"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, 0.04520839721679688, 0.03017457153320311, -0.004768211975097653]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_011"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, 0.01503839721679688, 0.009954571533203107, -0.009858211975097645]
+        },
+        {
+            name = "b_FDM_0001_front_left_leg_001_"
+            ref = b_FDM_0001_front_left_leg_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 5.1968383789063004e-05, 0.019988907623291013, -0.019975451660156233]
+        },
+        {
+            name = "b_front_leg_tensioner_001_"
+            ref = b_front_leg_tensioner_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.09259345092773433, 0.08998146972656251, 0.010038787841796957]
+        },
+        {
+            name = "b_FDM_0007_frame_umbilical_mount_001_"
+            ref = b_FDM_0007_frame_umbilical_mount_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, 0.08502581054687505, 0.10991485473632816, -0.019946690673828277]
+        },
+        {
+            name = "b_MakerBot_LimitSwitchBoard1_001_"
+            ref = b_MakerBot_LimitSwitchBoard1_001_
+            qty = 1
+            placement = [0.5, 0.5, 0.5, 0.5, 0.06940115051269527, 0.09342340881347655, 0.010067429809570315]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_002"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.4999999999999998, 0.5000000000000002, -0.5000000000000003, 0.4999999999999998, 0.11685882568359367, 0.10537661743164063, 0.030071501159668033]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_003"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.4999999999999998, 0.5000000000000002, -0.5000000000000003, 0.4999999999999998, 0.11685882568359367, 0.049176617431640625, 0.030071501159668033]
+        },
+        {
+            name = "b_FDM_0046_umbilical_swivel_base_001_"
+            ref = b_FDM_0046_umbilical_swivel_base_001_
+            qty = 1
+            placement = [0.0, 0.9238795325112866, 0.0, 0.3826834323650901, 0.06272504234359137, 0.1100612548828125, 0.04978223975352873]
+        },
+        {
+            name = "b_FDM_0047_umbilical_swivel_extension_001_"
+            ref = b_FDM_0047_umbilical_swivel_extension_001_
+            qty = 1
+            placement = [0.1802399555017367, 0.9061274463528878, 0.0746578340503424, 0.3753302775178657, -0.008657894544860122, 0.2260475403306464, -0.02160805356016142]
+        },
+        {
+            name = "Screw190"
+            ref = Screw
+            qty = 1
+            placement = [-0.5133765612117906, 0.3137710198008745, 0.1934206893122971, 0.7749714126839982, 0.00817264105025125, 0.25645169763022535, -0.01208383384444023]
+        },
+        {
+            name = "Nut086"
+            ref = Nut021
+            qty = 1
+            placement = [0.4081032776045108, 0.6935199226610108, -0.5774527814537243, 0.1379496896414162, -0.001605788626579315, 0.22350548849522675, -0.02184826986170635]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_Body_001_"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.6381634772052787, 0.6592617179737178, -0.0977984595475171, -0.3854307004971754, -0.0855988352646794, 0.3129116379572327, -0.15600339595173532]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_Body_001_001"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.6381634772052784, 0.6592617179737176, -0.0977984595475175, -0.385430700497175, -0.05497700964144526, 0.2888931705689075, -0.11336325713263744]
+        },
+        {
+            name = "b_FST_0017_M3_cap_nut1_001_002"
+            ref = b_FST_0017_M3_cap_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.08935068054199218, 0.10000764160156247, -0.025026806640625007]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_Body_001_003"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.6454508643200472, 0.5823167123664418, 0.0145032436752422, -0.4940547380302506, 0.05306599364759391, 0.21957483748084458, -0.023270969051792528]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_Body_001_002"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [0.6381634772052787, 0.6592617179737178, -0.0977984595475171, -0.3854307004971754, -0.017407758000470473, 0.2667165163648316, -0.07272427128598744]
+        }]
+}
+
+item "Group005" {
+    label = "Front-Right-Leg"
+
+    from = [
+        {
+            name = "b_FDM_0002_front_right_leg_001_001"
+            ref = b_FDM_0002_front_right_leg_001_001
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 2.1553955078122002e-05, 0.02001362915039063, -0.5800912182617187]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_014"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, 0.04497839721679677, 0.030184571533203107, -0.5952082119750977]
+        },
+        {
+            name = "b_front_leg_tensioner_001_002"
+            ref = b_front_leg_tensioner_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, 0.09250345092773446, 0.1100714697265625, -0.6100412121582032]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Idler1_001_003"
+            ref = b_Gates_2GT_20T_Toothed_Idler1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.09772359252929687, 0.09500034423828131, -0.5900585998535156]
+        },
+        {
+            name = "Nut046"
+            ref = Nut
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922193, 0.6830127018922195, -0.1830127018922196, 0.09745808410911361, 0.08390349847454542, -0.6050434273947009]
+        },
+        {
+            name = "Screw062"
+            ref = Screw008
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.09756999999999999, 0.10998000000000012, -0.59006]
+        },
+        {
+            name = "Nut047"
+            ref = Nut
+            qty = 1
+            placement = [-4e-16, 0.7071067811865476, -0.7071067811865475, 4e-16, 0.09750922972298919, 0.0899634984745457, -0.5900459372449712]
+        },
+        {
+            name = "Screw063"
+            ref = Screw006
+            qty = 1
+            placement = [0.5, 0.5, 0.5, 0.5, 0.10100000000000002, 0.1, -0.57497]
+        },
+        {
+            name = "Nut049"
+            ref = Nut006
+            qty = 1
+            placement = [0.5, 0.5, 0.5, 0.5, 0.093169037476983, 0.09999000000000002, -0.5750256217782651]
+        },
+        {
+            name = "Screw064"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.07016, 0.11496000000000015, -0.59019]
+        },
+        {
+            name = "Screw070"
+            ref = Screw022
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, 0.07, 0.02999000000000017, -0.6049999999999999]
+        },
+        {
+            name = "Screw071"
+            ref = Screw022
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, 0.044989999999999995, 0.02999000000000017, -0.6049999999999999]
+        },
+        {
+            name = "Screw072"
+            ref = Screw022
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, 0.02498, 0.010200000000000169, -0.5899099999999998]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_012"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, 0.01503839721679675, 0.010144571533203108, -0.5900682119750977]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_013"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, 0.07001839721679677, 0.030184571533203107, -0.5952082119750977]
+        },
+        {
+            name = "b_FST_0017_M3_cap_nut1_001_"
+            ref = b_FST_0017_M3_cap_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.08952373046875, 0.10042189941406253, -0.575134912109375]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_015"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.07004839721679677, 0.10508457153320314, -0.5899882119750977]
+        },
+        {
+            name = "Screw061"
+            ref = Screw
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, 0.09758, 0.11974000000000014, -0.60512]
+        }]
+}
+
+item "Group006" {
+    label = "Back-Left-Leg"
+
+    from = [
+        {
+            name = "Screw089"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.53108, 0.11509000000000004, 0.005539999999999913]
+        },
+        {
+            name = "Screw090"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.56208, 0.11509000000000004, 0.005539999999999913]
+        },
+        {
+            name = "Screw091"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.56208, 0.11509000000000004, -0.025340000000000085]
+        },
+        {
+            name = "Screw092"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.5311300000000001, 0.11509000000000004, -0.025340000000000085]
+        },
+        {
+            name = "b_Nema_17_42A02C_v21_001_002"
+            ref = b_Nema_17_42A02C_v21_001_
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.5465380368041993, 0.11024757080078133, -0.009836192016601505]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Pulley1_001_002"
+            ref = b_Gates_2GT_20T_Toothed_Pulley1_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.5465193804931641, 0.11128055419921876, -0.009820419921875023]
+        },
+        {
+            name = "Screw029"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.51006, 0.11505000000000003, -0.009890000000000022]
+        },
+        {
+            name = "Screw030"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.51006, 0.03011000000000003, 0.006569999999999978]
+        },
+        {
+            name = "Screw031"
+            ref = Screw022
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.51006, 0.030110000000000026, -0.02633000000000002]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_002"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.510061602783203, 0.10517457153320312, -0.009958211975097673]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_003"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.510061602783203, 0.03008457153320312, -0.004868211975097672]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_004"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.510061602783203, 0.030084571533203118, -0.01489821197509767]
+        },
+        {
+            name = "b_FDM_0003_back_left_leg_001_"
+            ref = b_FDM_0003_back_left_leg_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.5000670227050781, -0.04988847579956055, -0.03141329956054688]
+        }]
+}
+
+item "Group007" {
+    label = "Back-Right-Leg"
+
+    from = [
+        {
+            name = "b_FDM_0004_back_right_leg_001_"
+            ref = b_FDM_0004_back_right_leg_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.5000639965820313, -0.049900293579101564, -0.6115036767578125]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Pulley1_001_003"
+            ref = b_Gates_2GT_20T_Toothed_Pulley1_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.5465193804931641, 0.11128055419921876, -0.5900204199218749]
+        },
+        {
+            name = "Screw096"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.53108, 0.11509000000000004, -0.57462]
+        },
+        {
+            name = "Screw093"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.56208, 0.11509000000000004, -0.57462]
+        },
+        {
+            name = "Screw094"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.56208, 0.11509000000000004, -0.60565]
+        },
+        {
+            name = "Screw095"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.53113, 0.11509000000000004, -0.60565]
+        },
+        {
+            name = "b_Nema_17_42A02C_v21_001_003"
+            ref = b_Nema_17_42A02C_v21_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.5465380368041993, 0.11024757080078121, -0.5900761920166016]
+        },
+        {
+            name = "Screw032"
+            ref = Screw022
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.51006, 0.030110000000000026, -0.6064400000000001]
+        },
+        {
+            name = "Screw033"
+            ref = Screw022
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.51006, 0.03011000000000003, -0.57354]
+        },
+        {
+            name = "Screw034"
+            ref = Screw022
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.51006, 0.11505000000000015, -0.5899400000000001]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_007"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.510061602783203, 0.030084571533203118, -0.5953382119750977]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_006"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.510061602783203, 0.03008457153320312, -0.5850282119750976]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_005"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.510061602783203, 0.10517457153320325, -0.5900982119750978]
+        }]
+}
+
+item "Group008" {
+    label = "Extrusion"
+
+    from = [
+        {
+            name = "b_M5_tslot_nut1_001_028"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.13979, 0.0249946, -0.0100282]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_029"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.08267160278320312, 0.024994571533203107, -0.010028211975097642]
+        },
+        {
+            name = "Screw103"
+            ref = Screw022
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.13773, 0.01498, -0.009980000000000001]
+        },
+        {
+            name = "Screw104"
+            ref = Screw022
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.08271, 0.014979999999999999, -0.009980000000000001]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_024"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865475, -0.0, -0.0, 0.7071067811865476, -0.4418616027832031, 0.02497457153320312, -0.5899182119750978]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_025"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, -0.45699160278320305, 0.009954571533203126, -0.5899182119750978]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_026"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [-0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.4668416027832031, 0.009954571533203128, -0.5899182119750978]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_027"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.48196160278320305, 0.02502457153320313, -0.5899182119750978]
+        },
+        {
+            name = "Screw081"
+            ref = Screw073
+            qty = 1
+            placement = [0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.47499000000000013, 0.00991, -0.5899699999999999]
+        },
+        {
+            name = "Screw082"
+            ref = Screw073
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, -0.4488300000000001, 0.009909999999999997, -0.5899699999999999]
+        },
+        {
+            name = "Screw083"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.44180000000000014, 0.016929999999999997, -0.5898799999999998]
+        },
+        {
+            name = "Screw084"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.48198000000000013, 0.016929999999999997, -0.5898799999999998]
+        },
+        {
+            name = "Screw077"
+            ref = Screw073
+            qty = 1
+            placement = [0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.47499, 0.009970000000000001, -0.010019999999999895]
+        },
+        {
+            name = "Screw078"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.48204, 0.01685, -0.010019999999999894]
+        },
+        {
+            name = "Screw079"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.442, 0.01685, -0.010019999999999894]
+        },
+        {
+            name = "Screw080"
+            ref = Screw073
+            qty = 1
+            placement = [0.7071067811865476, 0.0, 0.7071067811865475, 0.0, -0.44889999999999997, 0.009980000000000001, -0.010019999999999892]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_020"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.4569516027832031, 0.00995457153320312, -0.00970821197509767]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_021"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, -0.7071067811865475, 0.0, -0.4668716027832031, 0.009954571533203118, -0.009708211975097672]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_022"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865479, 0.0, 0.0, 0.7071067811865471, -0.4820416027832031, 0.025124571533203115, -0.009708211975097672]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_023"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865479, 0.0, 0.0, 0.7071067811865471, -0.4419416027832031, 0.025124571533203115, -0.009708211975097672]
+        },
+        {
+            name = "b_2020CornerBracket1_001_002"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.47205471069335936, 0.019915351562499975, -0.5800078622436523]
+        },
+        {
+            name = "b_2020CornerBracket1_001_003"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.4518447106933594, 0.01991535156249998, -0.5999178622436523]
+        },
+        {
+            name = "b_2020CornerBracket1_001_004"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.4518447106933594, 0.01991535156249998, -0.020017862243652266]
+        },
+        {
+            name = "b_2020CornerBracket1_001_005"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.47205471069335936, 0.019915351562499975, -7.862243652319e-06]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_006"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, -0.47191000000000005, 0.0, 0.0]
+        },
+        {
+            name = "b_2020CornerBracket1_001_001"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -2.4710693359362e-05, 0.019915351562499975, -0.5800078622436523]
+        },
+        {
+            name = "Screw073"
+            ref = Screw073
+            qty = 1
+            placement = [0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.003069999999999998, 0.009970000000000001, -0.01002]
+        },
+        {
+            name = "Screw074"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.010129999999999997, 0.017050000000000003, -0.010019999999999998]
+        },
+        {
+            name = "b_2020CornerBracket1_001_"
+            ref = b_2020CornerBracket1_001_
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -2.4710693359362e-05, 0.020065351562499972, 5.2137756347683003e-05]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_016"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, -0.7071067811865475, 0.0, 0.004968397216796877, 0.009954571533203107, -0.009858211975097642]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_017"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.010141602783203127, 0.024994571533203107, -0.010028211975097642]
+        },
+        {
+            name = "Screw075"
+            ref = Screw073
+            qty = 1
+            placement = [0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.003070000000000127, 0.009970000000000001, -0.58977]
+        },
+        {
+            name = "Screw076"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.009870000000000125, 0.016900000000000002, -0.58989]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_018"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.7071067811865476, 0.0, -0.7071067811865475, 0.0, 0.004968397216797006, 0.009954571533203107, -0.5897182119750977]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_019"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.010001602783203, 0.024544571533203108, -0.5897182119750977]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_002"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.07997157745361329, 0.09001755981445311, 9.594726562509001e-06]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_004"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.07998490600585939, 0.020004318237304686, -0.5800684936523437]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_005"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.07994806518554688, 0.09004766845703123, -0.5800876953125]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_001"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, 0.08009258728027346, 0.02006743621826172, 6.374816894534601e-05]
+        },
+        {
+            name = "b_OTS_0009_20x20_v_slot_600mm1_001_"
+            ref = b_OTS_0009_20x20_v_slot_600mm1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "b_FDM_0022_umbilical_guide_001_"
+            ref = b_FDM_0022_umbilical_guide_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.11120497131347656, 0.019998285293579103, -0.010006717681884766]
+        },
+        {
+            name = "b_FDM_0016_cable_clip_001_"
+            ref = b_FDM_0016_cable_clip_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.33425540161132816, 0.0197601318359375, -0.5897857055664061]
+        },
+        {
+            name = "b_FDM_0016_cable_clip_001_001"
+            ref = b_FDM_0016_cable_clip_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.2915988464355469, 0.021084362030029297, -0.5897078857421875]
+        },
+        {
+            name = "b_FDM_0016_cable_clip_001_002"
+            ref = b_FDM_0016_cable_clip_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.25300274658203126, 0.020764062881469727, -0.5897078857421875]
+        },
+        {
+            name = "b_FDM_0016_cable_clip_001_003"
+            ref = b_FDM_0016_cable_clip_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.17489083862304688, 0.02012346649169922, -0.5897078857421875]
+        }]
+}
+
+item "Group" {
+    label = "Base Frame"
+
+    from = [
+        {
+            name = "Group004"
+            ref = Group004
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group005"
+            ref = Group005
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group006"
+            ref = Group006
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group007"
+            ref = Group007
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group008"
+            ref = Group008
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        }]
+}
+
+item "Group003" {
+    label = "Plate"
+
+    from = [
+        {
+            name = "b_FDM_0019_up_light_mount_001_"
+            ref = b_FDM_0019_up_light_mount_001_
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.10397892028808593, 0.03223668945312501, -0.3003978881835938]
+        },
+        {
+            name = "b_FDM_0020_up_camera_mount_001_"
+            ref = b_FDM_0020_up_camera_mount_001_
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.10400917358398437, 0.018748719482421874, -0.30036920043945314]
+        },
+        {
+            name = "Screw174"
+            ref = Screw174
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.07404, 0.043100000000000006, -0.30041]
+        },
+        {
+            name = "Screw175"
+            ref = Screw174
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.13405, 0.043100000000000006, -0.30041]
+        },
+        {
+            name = "Screw176"
+            ref = Screw174
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.10404, 0.04310000000000001, -0.33033000000000007]
+        },
+        {
+            name = "Screw177"
+            ref = Screw174
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.104, 0.0431, -0.2703900000000001]
+        },
+        {
+            name = "Nut052"
+            ref = Nut006
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.07406115192687163, 0.015970000000000064, -0.3003868630857377]
+        },
+        {
+            name = "Nut053"
+            ref = Nut006
+            qty = 1
+            placement = [0.4999999999999998, 0.5000000000000002, -0.5000000000000003, 0.4999999999999998, -0.1040311519268716, 0.01627000000000007, -0.2704168630857376]
+        },
+        {
+            name = "Nut054"
+            ref = Nut006
+            qty = 1
+            placement = [0.4999999999999998, 0.5000000000000002, -0.5000000000000003, 0.4999999999999998, -0.10403115192687165, 0.01620000000000006, -0.3302868630857375]
+        },
+        {
+            name = "Nut055"
+            ref = Nut006
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.13405115192687164, 0.016050000000000064, -0.30038686308573764]
+        },
+        {
+            name = "Screw139"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.14895, 0.04298, -0.4655]
+        },
+        {
+            name = "Screw142"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.14895, 0.04298, -0.49539999999999995]
+        },
+        {
+            name = "Nut057"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.14895, 0.03575, -0.49549999999999994]
+        },
+        {
+            name = "Nut058"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.14895, 0.03575, -0.46559999999999996]
+        },
+        {
+            name = "Screw178"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.05433000000000001, 0.04332, -0.010019999999999897]
+        },
+        {
+            name = "Screw179"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.15393, 0.04319, -0.010139999999999896]
+        },
+        {
+            name = "Screw180"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.15393, 0.04319, -0.5901099999999999]
+        },
+        {
+            name = "Screw134"
+            ref = Screw073
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.05435, 0.04319, -0.5901099999999999]
+        },
+        {
+            name = "Screw152"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.05883, 0.04298000000000004, -0.04538999999999997]
+        },
+        {
+            name = "Screw153"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.14875, 0.04298000000000004, -0.04538999999999997]
+        },
+        {
+            name = "Screw154"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.14875, 0.04298000000000004, -0.13530999999999999]
+        },
+        {
+            name = "Screw155"
+            ref = Screw139
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.05883, 0.04298000000000004, -0.13530999999999999]
+        },
+        {
+            name = "b_FDM_0024_nozzle_holder_001_"
+            ref = b_FDM_0024_nozzle_holder_001_
+            qty = 1
+            placement = [-2.8e-15, 0.7071069003958291, -0.0, 0.7071066619772458, -0.14195485096055926, 0.042947708129884125, -0.11520793335911354]
+        },
+        {
+            name = "Nut064"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.0739412, 0.04793, -0.12]
+        },
+        {
+            name = "Nut065"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.10395099999999999, 0.04793, -0.12]
+        },
+        {
+            name = "Nut066"
+            ref = Nut020
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.133981, 0.04793, -0.12]
+        },
+        {
+            name = "Screw156"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.07395, 0.039939999999999996, -0.12]
+        },
+        {
+            name = "Screw157"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.10396999999999999, 0.039939999999999996, -0.12]
+        },
+        {
+            name = "Screw158"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, -0.5, 0.5, 0.5, -0.13399, 0.039939999999999996, -0.12]
+        },
+        {
+            name = "b_OTS_0002_00_usb_webcam_001_001"
+            ref = b_OTS_0002_00_usb_webcam_001_
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.10410317016601563, 0.02220023742675781, -0.2998342456054688]
+        },
+        {
+            name = "Screw159"
+            ref = Screw159
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.11810000000000001, 0.020610000000000014, -0.31387]
+        },
+        {
+            name = "Screw160"
+            ref = Screw159
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.11810000000000001, 0.020610000000000007, -0.28589]
+        },
+        {
+            name = "Screw161"
+            ref = Screw159
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.09009000000000002, 0.020610000000000007, -0.28589]
+        },
+        {
+            name = "Screw162"
+            ref = Screw159
+            qty = 1
+            placement = [0.0, 0.7071067811865476, -0.7071067811865475, 0.0, -0.09009000000000002, 0.020610000000000014, -0.31387]
+        },
+        {
+            name = "b_CSM_0001_staging_plate_001_"
+            ref = b_CSM_0001_staging_plate_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.1639510681152343, 0.04297292724609382, -0.000410743408203115]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_030"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.054221602783202996, 0.03497457153320311, -0.5897182119750977]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_031"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.153871602783203, 0.03497457153320311, -0.5897182119750977]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_032"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.153871602783203, 0.03497457153320324, -0.009858211975097713]
+        },
+        {
+            name = "b_M5_tslot_nut1_001_033"
+            ref = b_M5_tslot_nut1_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.054271602783203, 0.03497457153320324, -0.009858211975097713]
+        },
+        {
+            name = "b_OTS_0003_00_vacuum_pump_001_001"
+            ref = b_OTS_0003_00_vacuum_pump_001_001
+            qty = 1
+            placement = [1.4e-15, -1.4e-15, -0.7071068407911912, 0.7071067215818989, -0.13393583679199125, 0.010225622177124024, -0.48128059387207034]
+        },
+        {
+            name = "b_FDM_0025_pump_mount_001_001"
+            ref = b_FDM_0025_pump_mount_001_001
+            qty = 1
+            placement = [-0.7071068407911912, -0.0, 0.0, 0.7071067215818989, -0.16352354431152344, -0.015259102240612544, -0.45261530761718416]
+        },
+        {
+            name = "b_24v_3_Way_Solenoid_Valve_0526T_www_fspump_cn_001_"
+            ref = b_24v_3_Way_Solenoid_Valve_0526T_www_fspump_cn_001_
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.7071067811865476, 0.0, -0.13940969696044916, 0.03334892196655275, -0.3684814880371094]
+        },
+        {
+            name = "b_OTS_0020_index_motherboard1_001_"
+            ref = b_OTS_0020_index_motherboard1_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, 0.012380050659179716, 0.014999044189453078, 0.02867871093750001]
+        },
+        {
+            name = "Screw191"
+            ref = Screw139
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.05897, 0.0135, -0.04539]
+        },
+        {
+            name = "Screw192"
+            ref = Screw139
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14862, 0.0135, -0.04534]
+        },
+        {
+            name = "Screw193"
+            ref = Screw139
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14862, 0.0135, -0.13529]
+        },
+        {
+            name = "Screw194"
+            ref = Screw139
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.05877, 0.0135, -0.13529]
+        },
+        {
+            name = "PcbSpacer"
+            ref = PcbSpacer
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14892, 0.04, -0.04539]
+        },
+        {
+            name = "PcbSpacer001"
+            ref = PcbSpacer
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14892, 0.03999999999999998, -0.13534000000000002]
+        },
+        {
+            name = "PcbSpacer002"
+            ref = PcbSpacer
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.05896999999999998, 0.04, -0.04539]
+        },
+        {
+            name = "PcbSpacer003"
+            ref = PcbSpacer
+            qty = 1
+            placement = [0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.05876999999999999, 0.03999999999999998, -0.13534000000000002]
+        },
+        {
+            name = "b_FDM_0055_datum_board_mount_001_"
+            ref = b_FDM_0055_datum_board_mount_001_
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.133979443359375, 0.04290438842773438, -0.27039127807617186]
+        },
+        {
+            name = "Screw195"
+            ref = Screw020
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.1339400000000002, 0.052900000000000086, -0.3303900000000001]
+        },
+        {
+            name = "Nut088"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.133951, 0.037570000000000034, -0.33041000000000004]
+        },
+        {
+            name = "Screw196"
+            ref = Screw020
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.1339400000000002, 0.0529000000000001, -0.2703900000000001]
+        },
+        {
+            name = "Screw197"
+            ref = Screw020
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.14894000000000018, 0.052900000000000086, -0.3153900000000001]
+        },
+        {
+            name = "Screw198"
+            ref = Screw020
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.14894000000000018, 0.05290000000000009, -0.2853900000000001]
+        },
+        {
+            name = "Nut089"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.133951, 0.03757000000000002, -0.27041000000000004]
+        },
+        {
+            name = "Nut090"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.148951, 0.037570000000000034, -0.31541]
+        },
+        {
+            name = "Nut091"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.148951, 0.03757000000000003, -0.28541000000000005]
+        },
+        {
+            name = "b_FDM_0042_valve_mount_001_"
+            ref = b_FDM_0042_valve_mount_001_
+            qty = 1
+            placement = [-1.0, 0.0, 1e-16, 0.0, -0.15252040405273443, 0.039666973876953136, -0.34157578735351557]
+        },
+        {
+            name = "Screw203"
+            ref = Screw085
+            qty = 1
+            placement = [0.7071067811865476, 0.0, -0.7071067811865475, 0.0, -0.14479000000000003, 0.019639999999999994, -0.34720000000000006]
+        },
+        {
+            name = "Screw204"
+            ref = Screw085
+            qty = 1
+            placement = [0.7071067811865476, 0.0, -0.7071067811865475, 0.0, -0.14499, 0.029639999999999982, -0.3626]
+        },
+        {
+            name = "Screw205"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.14849000000000004, 0.043039999999999995, -0.3757]
+        },
+        {
+            name = "Screw206"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.11849, 0.043039999999999995, -0.3456]
+        },
+        {
+            name = "Nut092"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.148551, 0.035970000000000044, -0.37561]
+        },
+        {
+            name = "Nut093"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.118751, 0.035970000000000044, -0.34581]
+        },
+        {
+            name = "Screw207"
+            ref = Screw164
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.07404, 0.04309999999999998, -0.18031000000000005]
+        },
+        {
+            name = "Screw208"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.14849000000000007, 0.043039999999999995, -0.34559999999999996]
+        },
+        {
+            name = "Nut094"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.14835099999999998, 0.035970000000000044, -0.34551000000000004]
+        },
+        {
+            name = "Screw209"
+            ref = Screw085
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.11859000000000004, 0.043039999999999995, -0.3753999999999999]
+        },
+        {
+            name = "Nut095"
+            ref = Nut020
+            qty = 1
+            placement = [-0.7071067811865475, 0.0, 0.0, 0.7071067811865476, -0.11855099999999999, 0.03597000000000005, -0.37541]
+        },
+        {
+            name = "Nut096"
+            ref = Nut020
+            qty = 1
+            placement = [0.4999999999999998, 0.5000000000000002, -0.5000000000000003, 0.4999999999999998, -0.07403115192687149, 0.027070000000000073, -0.18031686308573763]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.0588938232421875, 0.03661959533691406, -0.5553483032226563]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_001"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.0588938232421875, 0.03661959533691406, -0.43524830322265623]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_002"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [1.0, 0.0, 0.0, 0.0, -0.0588938232421875, 0.03661959533691406, -0.2550483032226562]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_003"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.1488938232421875, 0.03661959533691406, -0.40594830322265624]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_004"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.1488938232421875, 0.03661959533691406, -0.19544830322265622]
+        },
+        {
+            name = "b_FDM_0023_peek_cable_guide_001_005"
+            ref = b_FDM_0023_peek_cable_guide_001_
+            qty = 1
+            placement = [0.0, 0.0, 1.0, 0.0, -0.10389382324218749, 0.03661959533691406, -0.4503483032226563]
+        },
+        {
+            name = "Nut101"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.14865115192687156, 0.03145000000000009, -0.19548686308573762]
+        },
+        {
+            name = "Screw210"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.14894000000000018, 0.04280000000000011, -0.1953900000000001]
+        },
+        {
+            name = "Screw211"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.14894000000000018, 0.04280000000000006, -0.4061900000000001]
+        },
+        {
+            name = "Screw212"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.05904000000000019, 0.042800000000000095, -0.2553900000000001]
+        },
+        {
+            name = "Screw213"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.10374000000000021, 0.04280000000000005, -0.4503900000000001]
+        },
+        {
+            name = "Screw214"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.0588400000000002, 0.04280000000000003, -0.55539]
+        },
+        {
+            name = "Screw215"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865476, 0.7071067811865475, 0.0, -0.0588400000000002, 0.04280000000000005, -0.43519000000000013]
+        },
+        {
+            name = "Nut102"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.14865115192687176, 0.03145000000000004, -0.4060868630857376]
+        },
+        {
+            name = "b_OTS_0009_pneumatic_splitter_URY6M_4M1_001_"
+            ref = b_OTS_0009_pneumatic_splitter_URY6M_4M1_001_
+            qty = 1
+            placement = [-0.7071067811865475, -0.0, 1e-16, -0.7071067811865477, -0.07409373474121092, 0.033349902343749946, -0.20247991638183602]
+        },
+        {
+            name = "Nut104"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.10385115192687182, 0.031450000000000033, -0.45048686308573765]
+        },
+        {
+            name = "Nut106"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.058851151926871924, 0.031450000000000006, -0.5553868630857378]
+        },
+        {
+            name = "b_PCB_0002_00_Datum_OpenPNPcalibration1_001_"
+            ref = b_PCB_0002_00_Datum_OpenPNPcalibration1_001_
+            qty = 1
+            placement = [0.5, -0.5, -0.5, -0.5, -0.12433099433113134, 0.051392440773361275, -0.26046551513671873]
+        },
+        {
+            name = "Nut105"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.0588511519268718, 0.031450000000000033, -0.4351868630857377]
+        },
+        {
+            name = "b_PCB_0003_00_RingLight1_001_"
+            ref = b_PCB_0003_00_RingLight1_001_
+            qty = 1
+            placement = [-0.2648868624815837, 0.6556179909708568, 0.6556179909708573, 0.2648868624815834, -0.10446613496594265, 0.03249999999999999, -0.30033890073533204]
+        },
+        {
+            name = "Nut103"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, 4e-16, -4e-16, 0.7071067811865476, -0.05865115192687162, 0.031450000000000075, -0.2554868630857377]
+        }]
+}
+
+item "Group012" {
+    label = "CameraAndLight"
+
+    from = [
+        {
+            name = "b_FDM_0014_down_camera_mount_001_"
+            ref = b_FDM_0014_down_camera_mount_001_
+            qty = 1
+            placement = [0.5000000297427887, 0.5000000212402687, 0.4999999702572067, -0.4999999787597336, -0.22139203098410468, 0.10456894778740145, -0.2370940512973076]
+        },
+        {
+            name = "b_FDM_0015_down_light_mount_001_"
+            ref = b_FDM_0015_down_light_mount_001_
+            qty = 1
+            placement = [0.500000065128546, -0.4999999858545224, -0.5000000112898442, -0.4999999377271389, -0.22144482581938843, 0.08107175121161227, -0.23704983419531236]
+        },
+        {
+            name = "Screw171"
+            ref = Screw045
+            qty = 1
+            placement = [-1.21927639e-08, -0.70710678118655, 0.0, 0.707106781186545, -0.23625203107034928, 0.11806894540467619, -0.25957405251264565]
+        },
+        {
+            name = "Screw185"
+            ref = Screw185
+            qty = 1
+            placement = [-0.7071068233333958, 1.21927646e-08, 0.0, 0.7071067390396968, -0.2385020313289971, 0.10306895015224038, -0.22007405072450661]
+        },
+        {
+            name = "Screw186"
+            ref = Screw185
+            qty = 1
+            placement = [-0.7071068233333958, 1.21927646e-08, 0.0, 0.7071067390396968, -0.23850203132899692, 0.10306894609912454, -0.2540740507245064]
+        },
+        {
+            name = "Screw187"
+            ref = Screw185
+            qty = 1
+            placement = [-0.7071068233333958, 1.21927646e-08, 0.0, 0.7071067390396968, -0.2045020313289969, 0.10306894551285667, -0.2540740507245062]
+        },
+        {
+            name = "Screw188"
+            ref = Screw185
+            qty = 1
+            placement = [-0.7071068233333958, 1.21927646e-08, 0.0, 0.7071067390396968, -0.2045020313289971, 0.10306894956597253, -0.22007405072450636]
+        },
+        {
+            name = "Screw189"
+            ref = Screw045
+            qty = 1
+            placement = [-1.21927639e-08, -0.70710678118655, 0.0, 0.707106781186545, -0.23625203107034953, 0.11806895076909422, -0.214574052512646]
+        },
+        {
+            name = "b_OTS_0002_00_usb_webcam_001_"
+            ref = b_OTS_0002_00_usb_webcam_001_
+            qty = 1
+            placement = [0.5, 0.5, -0.5, 0.5, -0.22142315673828125, 0.10139022827148438, -0.2372842559814453]
+        },
+        {
+            name = "b_PCB_0003_00_RingLight1_001_001"
+            ref = b_PCB_0003_00_RingLight1_001_
+            qty = 1
+            placement = [0.5000000000000001, -0.5000000000000001, 0.5000000000000004, 0.4999999999999996, -0.2217302034487062, 0.09096150207519531, -0.23728679577915276]
+        }]
+}
+
+item "Group013" {
+    label = "GT2BeltClamp"
+
+    from = [
+        {
+            name = "b_FDM_0027_belt_clamp_001_003"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [-5.39129109e-08, -0.707106727283424, 5.39127797e-08, 0.7071068350896627, -0.23125204033637628, 0.14406367622962665, -0.25782030716051524]
+        },
+        {
+            name = "b_FDM_0027_belt_clamp_001_002"
+            ref = b_FDM_0027_belt_clamp_001_
+            qty = 1
+            placement = [-0.707106727285214, -5.39028364e-08, 0.7071068350878784, 5.39027306e-08, -0.2312520339329202, 0.14396368797074732, -0.21582031053019615]
+        },
+        {
+            name = "Screw040"
+            ref = Screw038
+            qty = 1
+            placement = [0.5, 0.5, -0.5, -0.5, -0.23423, 0.15153999999999998, -0.21586]
+        },
+        {
+            name = "Screw041"
+            ref = Screw038
+            qty = 1
+            placement = [0.5, 0.5, -0.5, -0.5, -0.23423, 0.13648, -0.21589000000000003]
+        },
+        {
+            name = "Screw038"
+            ref = Screw038
+            qty = 1
+            placement = [0.5, 0.5, -0.5, -0.5, -0.23423, 0.13648, -0.25784]
+        },
+        {
+            name = "Screw039"
+            ref = Screw038
+            qty = 1
+            placement = [0.5, 0.5, -0.5, -0.5, -0.23423, 0.15153999999999998, -0.25774]
+        }]
+}
+
+item "Group014" {
+    label = "Motor"
+
+    from = [
+        {
+            name = "b_Nema_17_42A02C_v21_001_"
+            ref = b_Nema_17_42A02C_v21_001_
+            qty = 1
+            placement = [0.6578614193119522, 0.2592648715104532, 0.6578614839186461, 0.2592650137559943, -0.18725203407971405, 0.21224756969852984, -0.23677619601850933]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Pulley1_001_"
+            ref = b_Gates_2GT_20T_Toothed_Pulley1_001_
+            qty = 1
+            placement = [0.0, 0.0, -0.7071068407911912, 0.7071067215818989, -0.1919999542236328, 0.21227996826171874, -0.23678999328613282]
+        },
+        {
+            name = "Screw085"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19138, 0.2342, -0.23674]
+        },
+        {
+            name = "Screw086"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19138, 0.19034, -0.23674]
+        },
+        {
+            name = "Screw087"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19138, 0.21228999999999998, -0.25875]
+        },
+        {
+            name = "Screw088"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.19138, 0.21225, -0.21483000000000002]
+        }]
+}
+
+item "Group015" {
+    label = "XBaseFrame"
+
+    from = [
+        {
+            name = "Nut"
+            ref = Nut
+            qty = 1
+            placement = [-8.5e-15, -0.7071067752887535, 0.0, 0.7071067870843415, -0.19375203123865833, 0.09925336364746093, -0.23678165558493577]
+        },
+        {
+            name = "b_FDM_0011_x_gantry_front_001_"
+            ref = b_FDM_0011_x_gantry_front_001_
+            qty = 1
+            placement = [3.3915197e-08, 0.7071067431010144, -4.22559197e-08, 0.7071068192720767, -0.1973527833224085, 0.12321427372774464, -0.23674256430477367]
+        },
+        {
+            name = "b_FDM_0012_x_gantry_back_001_"
+            ref = b_FDM_0012_x_gantry_back_001_
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.23125203125, 0.12331368530273437, -0.23682030883789063]
+        },
+        {
+            name = "b_v_slot_roller1_001_003"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-9.29750292e-08, -9.29769415e-08, 0.7071066882110504, 0.70710687416202, -0.2094230639731753, 0.1800832700306205, -0.20881915140816376]
+        },
+        {
+            name = "b_v_slot_roller1_001_004"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-9.27490315e-08, -9.27503881e-08, 0.7071066884371351, 0.7071068739359359, -0.20942305730610147, 0.180083221693604, -0.27081910329127407]
+        },
+        {
+            name = "b_Gates_2GT_20T_Toothed_Idler1_001_"
+            ref = b_Gates_2GT_20T_Toothed_Idler1_001_
+            qty = 1
+            placement = [0.0, 0.0, -0.7071068407911912, 0.7071067215818989, -0.18499996948242187, 0.09905030059814453, -0.23677999877929687]
+        },
+        {
+            name = "b_v_slot_roller1_001_005"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-2.13751643e-08, -2.13743649e-08, 0.7071067645685901, 0.7071067978045039, -0.21052307501257184, 0.14087956023544002, -0.20837880075349727]
+        },
+        {
+            name = "Screw044"
+            ref = Screw044
+            qty = 1
+            placement = [8.5e-15, 0.7071067870843415, 0.0, 0.7071067752887537, -0.17475203123865835, 0.09925336364746071, -0.2367816559018839]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_005"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [-0.4999999518292813, 0.5000001077762392, -0.4999999701972115, -0.499999970197253, -0.19625203584525505, 0.16481373161562635, -0.2678203555640538]
+        },
+        {
+            name = "b_FDM_0009_roller_spacer_001_004"
+            ref = b_FDM_0009_roller_spacer_001_
+            qty = 1
+            placement = [-0.4999999513839449, 0.5000001082215775, -0.4999999701972061, -0.4999999701972562, -0.1962520425240064, 0.16481379914154354, -0.20582042267721712]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_006"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [-4e-16, 0.7071067811865476, -0.7071067811865475, -4e-16, -0.2162411743164067, 0.24207661743164063, -0.30142849884033174]
+        },
+        {
+            name = "b_OTS_0005_00_zip_tie_001_007"
+            ref = b_OTS_0005_00_zip_tie_001_002
+            qty = 1
+            placement = [-4e-16, 0.7071067811865476, -0.7071067811865475, -4e-16, -0.2162411743164067, 0.1943766174316406, -0.30142849884033174]
+        },
+        {
+            name = "b_FDM_0043_001_"
+            ref = b_FDM_0043_001_
+            qty = 1
+            placement = [8.3422897e-09, 0.7071067674937862, -8.4072527e-09, 0.7071067948793085, -0.20235204854462427, 0.12561014402074316, -0.2366301270102976]
+        },
+        {
+            name = "b_FDM_0043_001_001"
+            ref = b_FDM_0043_001_
+            qty = 1
+            placement = [0.0003852453610257, -0.7071066762420033, 0.0003852575278392, 0.7071066762353724, -0.2164447713669, 0.1259500782639675, -0.23722999043426843]
+        },
+        {
+            name = "Screw164"
+            ref = Screw164
+            qty = 1
+            placement = [-1.67495427e-08, -0.7071067948793084, 0.0, 0.7071067674937863, -0.20435204975490479, 0.12561014407098903, -0.20538012708775558]
+        },
+        {
+            name = "Screw165"
+            ref = Screw164
+            qty = 1
+            placement = [0.7071067811540659, -3.58591258e-08, -0.0, 0.7071067812190283, -0.1923520502563654, 0.12101014372009601, -0.19538012656119766]
+        },
+        {
+            name = "Screw166"
+            ref = Screw164
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.22629, 0.12101, -0.19538]
+        },
+        {
+            name = "Screw167"
+            ref = Screw164
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.22628700000000002, 0.12101, -0.27788]
+        },
+        {
+            name = "Screw"
+            ref = Screw
+            qty = 1
+            placement = [8.5e-15, 0.7071067870843422, 0.0, 0.707106775288753, -0.19125203177848085, 0.16481368530022558, -0.2678203093239381]
+        },
+        {
+            name = "Screw168"
+            ref = Screw
+            qty = 1
+            placement = [-2.1400003e-09, 0.70710678429935, 2.1400088e-09, 0.707106778073745, -0.19225203074124558, 0.16481368546886416, -0.2058203090709882]
+        },
+        {
+            name = "Screw169"
+            ref = Screw
+            qty = 1
+            placement = [1.05883577e-08, 0.7071067786358768, -1.29084796e-08, 0.7071067837372181, -0.19125045204237448, 0.12561000727729882, -0.2053799902401458]
+        },
+        {
+            name = "Screw170"
+            ref = Screw
+            qty = 1
+            placement = [6.1762494e-09, 0.7071067731458974, -6.3844285e-09, 0.7071067892271976, -0.19133123974526878, 0.1256100073780902, -0.2678799901562757]
+        },
+        {
+            name = "Nut068"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.22628700000000002, 0.1465, -0.19538]
+        },
+        {
+            name = "Nut069"
+            ref = Nut020
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.22628700000000002, 0.1465, -0.27808]
+        },
+        {
+            name = "Nut070"
+            ref = Nut006
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.192653, 0.1465, -0.277881]
+        },
+        {
+            name = "Nut071"
+            ref = Nut006
+            qty = 1
+            placement = [0.7071067811865475, -4.9e-15, 0.0, 0.7071067811865476, -0.192653, 0.1465, -0.195381]
+        },
+        {
+            name = "b_OTS_0011_v_slot_roller1_001_"
+            ref = b_OTS_0011_v_slot_roller1_001_
+            qty = 1
+            placement = [-2.09373573e-08, -2.15462347e-08, 0.7071067647081154, 0.7071067976649786, -0.2105230724341034, 0.14087954776214934, -0.27087878852246905]
+        },
+        {
+            name = "Screw045"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.18399000000000001, -0.21676]
+        },
+        {
+            name = "Screw046"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.1439, -0.21676]
+        },
+        {
+            name = "Screw047"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.10398, -0.21676]
+        },
+        {
+            name = "Nut027"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.18396, -0.21675000000000003]
+        },
+        {
+            name = "Nut029"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.1040592296257299, -0.2567021938521299]
+        },
+        {
+            name = "Nut030"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.14420361240723914, -0.2566700832360627]
+        },
+        {
+            name = "Nut097"
+            ref = Nut021
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922196, 0.1830127018922197, 0.6830127018922192, -0.22780757874271773, 0.12558296250877723, -0.20547970465847107]
+        },
+        {
+            name = "Nut098"
+            ref = Nut021
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922196, 0.1830127018922197, 0.6830127018922192, -0.2278075787427177, 0.12565295510685173, -0.2677584739224524]
+        },
+        {
+            name = "Nut099"
+            ref = Nut021
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922196, 0.1830127018922197, 0.6830127018922192, -0.22780757874271776, 0.16476121629514417, -0.26782097854865583]
+        },
+        {
+            name = "Nut100"
+            ref = Nut021
+            qty = 1
+            placement = [-0.1830127018922189, -0.6830127018922196, 0.1830127018922197, 0.6830127018922192, -0.2278075787427178, 0.16476442877782657, -0.20581541436543144]
+        },
+        {
+            name = "Screw050"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.18395000000000003, -0.25682000000000005]
+        },
+        {
+            name = "Nut031"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.1841111298539537, -0.25662823541441177]
+        },
+        {
+            name = "Screw048"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.10398, -0.25682000000000005]
+        },
+        {
+            name = "Screw049"
+            ref = Screw045
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18329, 0.14393999999999998, -0.25682000000000005]
+        },
+        {
+            name = "Nut079"
+            ref = Nut020
+            qty = 1
+            placement = [-0.1830127018922193, -0.6830127018922194, 0.1830127018922193, 0.6830127018922194, -0.22618000000000002, 0.11832, -0.259319]
+        },
+        {
+            name = "Nut077"
+            ref = Nut020
+            qty = 1
+            placement = [-0.0, -0.7071067811865475, 0.0, 0.7071067811865476, -0.22618000000000002, 0.118324, -0.21431899999999998]
+        },
+        {
+            name = "Nut032"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.10400274078792761, -0.21674003538926404]
+        },
+        {
+            name = "Nut028"
+            ref = Nut006
+            qty = 1
+            placement = [-0.1830127018922198, 0.6830127018922179, -0.183012701892219, 0.6830127018922205, -0.19687000000000004, 0.14389891848867994, -0.2167378285837645]
+        },
+        {
+            name = "Nut023"
+            ref = Nut021
+            qty = 1
+            placement = [0.1830128979609723, -0.6830128153437616, -0.1830128979609723, 0.6830124833676485, -0.22520000067459237, 0.13651721693533034, -0.2158341670002173]
+        },
+        {
+            name = "Nut024"
+            ref = Nut021
+            qty = 1
+            placement = [0.1830128979609723, -0.6830128153437616, -0.1830128979609723, 0.6830124833676485, -0.22520000067459237, 0.15151921693533033, -0.2157941670002173]
+        },
+        {
+            name = "Nut022"
+            ref = Nut021
+            qty = 1
+            placement = [0.1830128979609723, -0.6830128153437616, -0.1830128979609723, 0.6830124833676485, -0.22519999932540763, 0.13659078306466965, -0.2577758329997828]
+        },
+        {
+            name = "Nut021"
+            ref = Nut021
+            qty = 1
+            placement = [0.1830128979609723, -0.6830128153437616, -0.1830128979609723, 0.6830124833676485, -0.22519999931325643, 0.1515171805529977, -0.25783583304950375]
+        },
+        {
+            name = "b_OTS_0014_linear_rail_100mm_LML9B1_001_"
+            ref = b_OTS_0014_linear_rail_100mm_LML9B1_001_
+            qty = 1
+            placement = [0.0, 0.0, 0.7071067811865476, -0.7071067811865475, -0.1838986236572266, 0.19145483398437502, -0.25690830688476557]
+        },
+        {
+            name = "b_OTS_0014_linear_rail_100mm_LML9B1_001_001"
+            ref = b_OTS_0014_linear_rail_100mm_LML9B1_001_001
+            qty = 1
+            placement = [0.0, 0.0, 0.7071067811865476, -0.7071067811865475, -0.1840986236572266, 0.19155483398437498, -0.2168083068847656]
+        }]
+}
+
+item "Group016" {
+    label = "EndStop"
+
+    from = [
+        {
+            name = "b_MakerBot_LimitSwitchBoard1_001_002"
+            ref = b_MakerBot_LimitSwitchBoard1_001_
+            qty = 1
+            placement = [0.5, 0.5, 0.5, -0.5, -0.18743884948730472, 0.2015534088134766, -0.2803325701904297]
+        },
+        {
+            name = "Screw123"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18516999999999995, 0.19626, -0.2826199999999999]
+        },
+        {
+            name = "Screw124"
+            ref = Screw085
+            qty = 1
+            placement = [0.0, 0.7071067811865475, 0.0, 0.7071067811865476, -0.18516999999999995, 0.19626, -0.26377999999999996]
+        }]
+}
+
+item "pnp" {
+    label = "pnp"
+
+    from = [
+        {
+            name = "Group"
+            ref = Group
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group001"
+            ref = Group001
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group002"
+            ref = Group002
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        },
+        {
+            name = "Group003"
+            ref = Group003
+            qty = 1
+            placement = [0, 0, 0, 1, 0.0, 0.0, 0.0]
+        }]
+}
