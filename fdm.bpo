@@ -1,0 +1,352 @@
+item "front_left_leg" {
+    ext = "fcstd://b_FDM_0001_front_left_leg_001_"
+    label = "FDM-0001_front-left-leg_Body_001"
+
+    artifact "model" {
+        filename = "6c4b9650.brp"
+        source = "file://artifact/6c4b9650.brp"
+        tag = "model"
+    }
+}
+
+item "front_right_leg" {
+    ext = "fcstd://b_FDM_0002_front_right_leg_001_001"
+    label = "FDM-0002_front-right-leg_Body_001"
+
+    artifact "model" {
+        filename = "ce0ae587.brp"
+        source = "file://artifact/ce0ae587.brp"
+        tag = "model"
+    }
+}
+
+
+item "back_left_leg" {
+    ext = "fcstd://b_FDM_0003_back_left_leg_001_"
+    label = "FDM-0003_back-left-leg_Body_001"
+
+    artifact "model" {
+        filename = "6ffcc699.brp"
+        source = "file://artifact/6ffcc699.brp"
+        tag = "model"
+    }
+}
+
+item "back_right_leg" {
+    ext = "fcstd://b_FDM_0004_back_right_leg_001_"
+    label = "FDM-0004_back-right-leg_Body_001"
+
+    artifact "model" {
+        filename = "7f9fe429.brp"
+        source = "file://artifact/7f9fe429.brp"
+        tag = "model"
+    }
+}
+
+item "y_gantry" {
+    ext = "fcstd://b_FDM_0005_y_gantry_001_"
+    label = "FDM-0005_y-gantry_Body_001"
+
+    artifact "model" {
+        filename = "ff5c3305.brp"
+        source = "file://artifact/ff5c3305.brp"
+        tag = "model"
+    }
+}
+
+item "x_motor_mount" {
+    ext = "fcstd://b_FDM_0006_x_motor_mount_001_"
+    label = "FDM-0006_x-motor-mount_Body_001"
+
+    artifact "model" {
+        filename = "6bcce289.brp"
+        source = "file://artifact/6bcce289.brp"
+        tag = "model"
+    }
+}
+
+item "frame_umbilical_mount" {
+    ext = "fcstd://b_FDM_0007_frame_umbilical_mount_001_"
+    label = "FDM-0007_frame-umbilical-mount_Body_001"
+
+    artifact "model" {
+        filename = "3e2636fc.brp"
+        source = "file://artifact/3e2636fc.brp"
+        tag = "model"
+    }
+}
+
+item "y_gantry_support" {
+    ext = "fcstd://b_FDM_0008_y_gantry_support_001_"
+    label = "FDM-0008_y-gantry-support_Body_001"
+
+    artifact "model" {
+        filename = "3690b535.brp"
+        source = "file://artifact/3690b535.brp"
+        tag = "model"
+    }
+}
+
+item "roller_spacer" {
+    ext = "fcstd://b_FDM_0009_roller_spacer_001_"
+    label = "FDM-0009_roller-spacer_Body_001"
+
+    artifact "model" {
+        filename = "cf29b1ea.brp"
+        source = "file://artifact/cf29b1ea.brp"
+        tag = "model"
+    }
+}
+
+item "y_gantry_umbilical_mount" {
+    ext = "fcstd://b_FDM_0010_y_gantry_umbilical_mount_001_"
+    label = "FDM-0010_y-gantry-umbilical-mount_Body_001"
+
+    artifact "model" {
+        filename = "493c1771.brp"
+        source = "file://artifact/493c1771.brp"
+        tag = "model"
+    }
+}
+
+item "x_gantry_front" {
+    ext = "fcstd://b_FDM_0011_x_gantry_front_001_"
+    label = "FDM-0011_x-gantry-front_Body_001"
+
+    artifact "model" {
+        filename = "d4ba875d.brp"
+        source = "file://artifact/d4ba875d.brp"
+        tag = "model"
+    }
+}
+
+item "x_gantry_back" {
+    ext = "fcstd://b_FDM_0012_x_gantry_back_001_"
+    label = "FDM-0012_x-gantry-back_Body_001"
+
+    artifact "model" {
+        filename = "80811896.brp"
+        source = "file://artifact/80811896.brp"
+        tag = "model"
+    }
+}
+
+item "x_idler_mount" {
+    ext = "fcstd://b_FDM_0013_x_idler_mount_001_"
+    label = "FDM-0013_x-idler-mount_Body_001"
+
+    artifact "model" {
+        filename = "0b21d45d.brp"
+        source = "file://artifact/0b21d45d.brp"
+        tag = "model"
+    }
+}
+
+item "down_camera_mount" {
+    ext = "fcstd://b_FDM_0014_down_camera_mount_001_"
+    label = "FDM-0014_down-camera-mount_Body_001"
+
+    artifact "model" {
+        filename = "73d863e2.brp"
+        source = "file://artifact/73d863e2.brp"
+        tag = "model"
+    }
+}
+
+item "down_light_mount" {
+    ext = "fcstd://b_FDM_0015_down_light_mount_001_"
+    label = "FDM-0015_down-light-mount_Body_001"
+
+    artifact "model" {
+        filename = "b6a77590.brp"
+        source = "file://artifact/b6a77590.brp"
+        tag = "model"
+    }
+}
+
+item "cable_clip" {
+    ext = "fcstd://b_FDM_0016_cable_clip_001_"
+    label = "FDM-0016_cable-clip_001"
+
+    artifact "model" {
+        filename = "d00f2ab7.brp"
+        source = "file://artifact/d00f2ab7.brp"
+        tag = "model"
+    }
+}
+
+item "z_gantry_left" {
+    ext = "fcstd://b_FDM_0017_z_gantry_left_001_"
+    label = "FDM-0017_z-gantry-left_Body_001"
+
+    artifact "model" {
+        filename = "aff26ad1.brp"
+        source = "file://artifact/aff26ad1.brp"
+        tag = "model"
+    }
+}
+
+item "up_light_mount" {
+    ext = "fcstd://b_FDM_0019_up_light_mount_001_"
+    label = "FDM-0019_up-light-mount_Body_001"
+
+    artifact "model" {
+        filename = "74fc6426.brp"
+        source = "file://artifact/74fc6426.brp"
+        tag = "model"
+    }
+}
+
+item "up_camera_mount" {
+    ext = "fcstd://b_FDM_0020_up_camera_mount_001_"
+    label = "FDM-0020_up-camera-mount_Body_001"
+
+    artifact "model" {
+        filename = "d5052363.brp"
+        source = "file://artifact/d5052363.brp"
+        tag = "model"
+    }
+}
+
+item "umbilical_guide" {
+    ext = "fcstd://b_FDM_0022_umbilical_guide_001_"
+    label = "FDM-0022_umbilical-guide_Body_001"
+
+    artifact "model" {
+        filename = "f78c1ca3.brp"
+        source = "file://artifact/f78c1ca3.brp"
+        tag = "model"
+    }
+}
+
+item "peek_cable_guide" {
+    ext = "fcstd://b_FDM_0023_peek_cable_guide_001_"
+    label = "FDM-0023_peek-cable-guide_001"
+
+    artifact "model" {
+        filename = "68a93f5c.brp"
+        source = "file://artifact/68a93f5c.brp"
+        tag = "model"
+    }
+}
+
+item "nozzle_holder_body" {
+    ext = "fcstd://b_FDM_0024_nozzle_holder_001_"
+    label = "FDM-0024_nozzle-holder_Body_001"
+
+    artifact "model" {
+        filename = "85cba0b4.brp"
+        source = "file://artifact/85cba0b4.brp"
+        tag = "model"
+    }
+}
+
+item "pump_mount" {
+    ext = "fcstd://b_FDM_0025_pump_mount_001_001"
+    label = "FDM-0025_pump-mount_Body_002"
+
+    artifact "model" {
+        filename = "f9738c92.brp"
+        source = "file://artifact/f9738c92.brp"
+        tag = "model"
+    }
+}
+
+item "belt_clamp" {
+    ext = "fcstd://b_FDM_0027_belt_clamp_001_"
+    label = "FDM-0027_belt-clamp_Body_001"
+
+    artifact "model" {
+        filename = "093e6854.brp"
+        source = "file://artifact/093e6854.brp"
+        tag = "model"
+    }
+}
+
+item "z_gantry_right" {
+    ext = "fcstd://b_FDM_0039_z_gantry_right_001_"
+    label = "FDM-0039_z-gantry-right_Body_001"
+
+    artifact "model" {
+        filename = "28953298.brp"
+        source = "file://artifact/28953298.brp"
+        tag = "model"
+    }
+}
+
+item "z_gantry_backplate_left" {
+    ext = "fcstd://b_FDM_0040_z_gantry_backplate_left_001_"
+    label = "FDM-0040_z-gantry-backplate-left_001"
+
+    artifact "model" {
+        filename = "7373f966.brp"
+        source = "file://artifact/7373f966.brp"
+        tag = "model"
+    }
+}
+
+item "z_gantry_backplate_right" {
+    ext = "fcstd://b_FDM_0041_z_gantry_backplate_right_001_"
+    label = "FDM-0041_z-gantry-backplate-right_Body_001"
+
+    artifact "model" {
+        filename = "0e80d2fd.brp"
+        source = "file://artifact/0e80d2fd.brp"
+        tag = "model"
+    }
+}
+
+item "valve_mount" {
+    ext = "fcstd://b_FDM_0042_valve_mount_001_"
+    label = "FDM-0042_valve-mount_001"
+
+    artifact "model" {
+        filename = "b8aba183.brp"
+        source = "file://artifact/b8aba183.brp"
+        tag = "model"
+    }
+}
+
+item "unknown_fdm" {
+    ext = "fcstd://b_FDM_0043_001_"
+    label = "FDM-0043_001"
+
+    artifact "model" {
+        filename = "5938f18d.brp"
+        source = "file://artifact/5938f18d.brp"
+        tag = "model"
+    }
+}
+
+item "umbilical_swivel_base" {
+    ext = "fcstd://b_FDM_0046_umbilical_swivel_base_001_"
+    label = "FDM-0046_umbilical-swivel-base_Body_001"
+
+    artifact "model" {
+        filename = "b0afd3c1.brp"
+        source = "file://artifact/b0afd3c1.brp"
+        tag = "model"
+    }
+}
+
+item "umbilical_swivel_extension" {
+    ext = "fcstd://b_FDM_0047_umbilical_swivel_extension_001_"
+    label = "FDM-0047_umbilical-swivel-extension_Body_001"
+
+    artifact "model" {
+        filename = "132c7947.brp"
+        source = "file://artifact/132c7947.brp"
+        tag = "model"
+    }
+}
+
+item "datum_board_mount" {
+    ext = "fcstd://b_FDM_0055_datum_board_mount_001_"
+    label = "FDM-0055_datum-board-mount_Body_001"
+
+    artifact "model" {
+        filename = "c6fd3231.brp"
+        source = "file://artifact/c6fd3231.brp"
+        tag = "model"
+    }
+}

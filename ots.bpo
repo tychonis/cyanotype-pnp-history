@@ -1,0 +1,109 @@
+item "cp40_nozzle_holder" {
+    ext = "fcstd://b_OTS_0001_00_CP40_nozzle_holder_001_"
+    label = "OTS-0001-00_CP40-nozzle-holder_Body_001"
+
+    artifact "model" {
+        filename = "d2296d9e.brp"
+        source = "file://artifact/d2296d9e.brp"
+        tag = "model"
+    }
+}
+
+item "usb_webcam" {
+    ext = "fcstd://b_OTS_0002_00_usb_webcam_001_"
+    label = "OTS-0002-00_usb-webcam_Body_001"
+
+    artifact "model" {
+        filename = "01a9adca.brp"
+        source = "file://artifact/01a9adca.brp"
+        tag = "model"
+    }
+}
+
+item "vacuum_pump" {
+    ext = "fcstd://b_OTS_0003_00_vacuum_pump_001_001"
+    label = "OTS-0003-00_vacuum-pump_Body_002"
+
+    artifact "model" {
+        filename = "b39d7f87.brp"
+        source = "file://artifact/b39d7f87.brp"
+        tag = "model"
+    }
+}
+
+item "zip_tie" {
+    ext = "fcstd://b_OTS_0005_00_zip_tie_001_002"
+    label = "OTS-0005-00_zip-tie_Body_003"
+
+    artifact "model" {
+        filename = "710fded2.brp"
+        source = "file://artifact/710fded2.brp"
+        tag = "model"
+    }
+}
+
+item "pneumatic_splitter" {
+    ext = "fcstd://b_OTS_0009_pneumatic_splitter_URY6M_4M1_001_"
+    label = "OTS-0009_pneumatic-splitter-URY6M-4M1_001"
+
+    artifact "model" {
+        filename = "750250f8.brp"
+        source = "file://artifact/750250f8.brp"
+        tag = "model"
+    }
+}
+
+item "v_slot_20x20_600mm" {
+    ext = "fcstd://b_OTS_0009_20x20_v_slot_600mm1_001_"
+    label = "OTS-0009_20x20_v_slot_600mm1_20x20_v_slot_600mm v2_001"
+
+    artifact "model" {
+        filename = "d632df1e.brp"
+        source = "file://artifact/d632df1e.brp"
+        tag = "model"
+    }
+}
+
+item "v_slot_roller" {
+    ext = "fcstd://b_OTS_0011_v_slot_roller1_001_"
+    label = "OTS-0011_v-slot-roller1_001"
+
+    artifact "model" {
+        filename = "18753cd2.brp"
+        source = "file://artifact/18753cd2.brp"
+        tag = "model"
+    }
+}
+
+item "linear_rail_100mm_LML9B1" {
+    ext = "fcstd://b_OTS_0014_linear_rail_100mm_LML9B1_001_"
+    label = "OTS-0014_linear-rail-100mm-LML9B1_001"
+
+    artifact "model" {
+        filename = "1b3e62b4.brp"
+        source = "file://artifact/1b3e62b4.brp"
+        tag = "model"
+    }
+}
+
+item "linear_rail_100mm_LML9B1_" {
+    ext = "fcstd://b_OTS_0014_linear_rail_100mm_LML9B1_001_001"
+    label = "OTS-0014_linear-rail-100mm-LML9B1_002"
+
+    artifact "model" {
+        filename = "ac822c40.brp"
+        source = "file://artifact/ac822c40.brp"
+        tag = "model"
+    }
+}
+
+item "index_motherboard" {
+    ext = "fcstd://b_OTS_0020_index_motherboard1_001_"
+    label = "PCB-0001-00_index_motherboard"
+
+    artifact "model" {
+        filename = "f9d2c3f2.brp"
+        source = "file://artifact/f9d2c3f2.brp"
+        tag = "model"
+    }
+}

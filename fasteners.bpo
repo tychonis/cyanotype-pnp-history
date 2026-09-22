@@ -1,0 +1,252 @@
+item "m5x10" {
+    ext = "fcstd://Screw022"
+    label = "M5x10-Screw"
+
+    artifact "model" {
+        filename = "948ff184.brp"
+        source = "file://artifact/948ff184.brp"
+        tag = "model"
+    }
+}
+
+item "m5x25" {
+    ext = "fcstd://Screw008"
+    label = "M5x25-Screw"
+
+    artifact "model" {
+        filename = "8e08a6a6.brp"
+        source = "file://artifact/8e08a6a6.brp"
+        tag = "model"
+    }
+}
+
+item "m5x40" {
+    ext = "fcstd://Screw"
+    label = "M5x40-Screw283"
+
+    artifact "model" {
+        filename = "9c7ee520.brp"
+        source = "file://artifact/9c7ee520.brp"
+        tag = "model"
+    }
+}
+
+item "m5nut" {
+    ext = "fcstd://Nut003"
+    label = "M5-Nut"
+
+    artifact "model" {
+        filename = "9e435441.brp"
+        source = "file://artifact/9e435441.brp"
+        tag = "model"
+    }
+}
+
+item "m3x8" {
+    ext = "fcstd://Screw085"
+    label = "M3x8-Screw254"
+
+    artifact "model" {
+        filename = "fe5b4e86.brp"
+        source = "file://artifact/fe5b4e86.brp"
+        tag = "model"
+    }
+}
+
+item "m3x16" {
+    ext = "fcstd://Screw006"
+    label = "M3x16-Screw"
+
+    artifact "model" {
+        filename = "29a2a665.brp"
+        source = "file://artifact/29a2a665.brp"
+        tag = "model"
+    }
+}
+
+item "m3nut" {
+    ext = "fcstd://Nut006"
+    label = "M3-Nut"
+
+    artifact "model" {
+        filename = "8a161b7b.brp"
+        source = "file://artifact/8a161b7b.brp"
+        tag = "model"
+    }
+}
+
+item "Screw020" {
+    ext = "fcstd://Screw020"
+    label = "M3x16-Screw043"
+
+    artifact "model" {
+        filename = "bff46ec2.brp"
+        source = "file://artifact/bff46ec2.brp"
+        tag = "model"
+    }
+}
+
+item "Nut020" {
+    ext = "fcstd://Nut020"
+    label = "M3-Nut232"
+
+    artifact "model" {
+        filename = "cf1376bf.brp"
+        source = "file://artifact/cf1376bf.brp"
+        tag = "model"
+    }
+}
+
+item "m5_tslot_nut" {
+    ext = "fcstd://b_M5_tslot_nut1_001_"
+    label = "M5-tslot-nut1_T_Slot_Nut_Dropin_M5 v1_001"
+
+    artifact "model" {
+        filename = "c4994681.brp"
+        source = "file://artifact/c4994681.brp"
+        tag = "model"
+    }
+}
+
+item "Nut" {
+    ext = "fcstd://Nut"
+    label = "M5-Nut478"
+
+    artifact "model" {
+        filename = "1857025f.brp"
+        source = "file://artifact/1857025f.brp"
+        tag = "model"
+    }
+}
+
+item "Screw045" {
+    ext = "fcstd://Screw045"
+    label = "M3x14-Screw"
+
+    artifact "model" {
+        filename = "474355f6.brp"
+        source = "file://artifact/474355f6.brp"
+        tag = "model"
+    }
+}
+
+item "Screw044" {
+    ext = "fcstd://Screw044"
+    label = "M5x25-Screw084"
+
+    artifact "model" {
+        filename = "aba41c3e.brp"
+        source = "file://artifact/aba41c3e.brp"
+        tag = "model"
+    }
+}
+
+item "Screw164" {
+    ext = "fcstd://Screw164"
+    label = "M3x30-Screw"
+
+    artifact "model" {
+        filename = "03e07fe0.brp"
+        source = "file://artifact/03e07fe0.brp"
+        tag = "model"
+    }
+}
+
+item "Nut021" {
+    ext = "fcstd://Nut021"
+    label = "M5-Nut476"
+
+    artifact "model" {
+        filename = "27470380.brp"
+        source = "file://artifact/27470380.brp"
+        tag = "model"
+    }
+}
+
+item "Screw038" {
+    ext = "fcstd://Screw038"
+    label = "M5x10-Screw222"
+
+    artifact "model" {
+        filename = "17c30684.brp"
+        source = "file://artifact/17c30684.brp"
+        tag = "model"
+    }
+}
+
+item "Screw073" {
+    ext = "fcstd://Screw073"
+    label = "M5x8-Screw093"
+
+    artifact "model" {
+        filename = "0cb57726.brp"
+        source = "file://artifact/0cb57726.brp"
+        tag = "model"
+    }
+}
+
+item "Screw139" {
+    ext = "fcstd://Screw139"
+    label = "M3x10-Screw051"
+
+    artifact "model" {
+        filename = "78ff5696.brp"
+        source = "file://artifact/78ff5696.brp"
+        tag = "model"
+    }
+}
+
+item "Screw159" {
+    ext = "fcstd://Screw159"
+    label = "M2.5x8-Screw059"
+
+    artifact "model" {
+        filename = "9e261ce7.brp"
+        source = "file://artifact/9e261ce7.brp"
+        tag = "model"
+    }
+}
+
+item "Screw185" {
+    ext = "fcstd://Screw185"
+    label = "M2.5x20-Screw"
+
+    artifact "model" {
+        filename = "b09d7c61.brp"
+        source = "file://artifact/b09d7c61.brp"
+        tag = "model"
+    }
+}
+
+item "Screw216" {
+    ext = "fcstd://Screw216"
+    label = "M2.5x8-Screw096"
+
+    artifact "model" {
+        filename = "142c8884.brp"
+        source = "file://artifact/142c8884.brp"
+        tag = "model"
+    }
+}
+
+item "m3_cap_nut" {
+    ext = "fcstd://b_FST_0017_M3_cap_nut1_001_"
+    label = "FST-0017_M3-cap-nut1_001"
+
+    artifact "model" {
+        filename = "bbbde8ea.brp"
+        source = "file://artifact/bbbde8ea.brp"
+        tag = "model"
+    }
+}
+
+item "Screw174" {
+    ext = "fcstd://Screw174"
+    label = "M3x30-Screw062"
+
+    artifact "model" {
+        filename = "aed318e9.brp"
+        source = "file://artifact/aed318e9.brp"
+        tag = "model"
+    }
+}
