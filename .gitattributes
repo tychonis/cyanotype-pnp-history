@@ -1,0 +1,1 @@
+*.brp binary -diff linguist-generated=true
