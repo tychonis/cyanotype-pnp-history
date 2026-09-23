@@ -20,7 +20,6 @@ item "front_right_leg" {
     }
 }
 
-
 item "back_left_leg" {
     ext = "fcstd://b_FDM_0003_back_left_leg_001_"
     label = "FDM-0003_back-left-leg_Body_001"

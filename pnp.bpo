@@ -88,7 +88,6 @@ item "b_2020CornerBracket1_001_" {
     }
 }
 
-
 item "b_CSM_0001_staging_plate_001_" {
     ext = "fcstd://b_CSM_0001_staging_plate_001_"
     label = "CSM-0001_staging-plate_Body_001"
