@@ -1,6 +1,6 @@
 item "cp40_nozzle_holder" {
     ext = "fcstd://b_OTS_0001_00_CP40_nozzle_holder_001_"
-    label = "OTS-0001-00_CP40-nozzle-holder_Body_001"
+    label = "CP40-holder"
 
     artifact "model" {
         filename = "d2296d9e.brp"
@@ -11,7 +11,7 @@ item "cp40_nozzle_holder" {
 
 item "usb_webcam" {
     ext = "fcstd://b_OTS_0002_00_usb_webcam_001_"
-    label = "OTS-0002-00_usb-webcam_Body_001"
+    label = "usb-camera"
 
     artifact "model" {
         filename = "01a9adca.brp"
@@ -22,7 +22,7 @@ item "usb_webcam" {
 
 item "vacuum_pump" {
     ext = "fcstd://b_OTS_0003_00_vacuum_pump_001_001"
-    label = "OTS-0003-00_vacuum-pump_Body_002"
+    label = "vacuum-pump"
 
     artifact "model" {
         filename = "b39d7f87.brp"
@@ -33,7 +33,7 @@ item "vacuum_pump" {
 
 item "zip_tie" {
     ext = "fcstd://b_OTS_0005_00_zip_tie_001_002"
-    label = "OTS-0005-00_zip-tie_Body_003"
+    label = "zip-tie004"
 
     artifact "model" {
         filename = "710fded2.brp"
@@ -44,66 +44,55 @@ item "zip_tie" {
 
 item "pneumatic_splitter" {
     ext = "fcstd://b_OTS_0009_pneumatic_splitter_URY6M_4M1_001_"
-    label = "OTS-0009_pneumatic-splitter-URY6M-4M1_001"
+    label = "pneumatic-y-adapter"
 
     artifact "model" {
-        filename = "750250f8.brp"
-        source = "file://artifact/750250f8.brp"
+        filename = "2beb37d6.brp"
+        source = "file://artifact/2beb37d6.brp"
         tag = "model"
     }
 }
 
 item "v_slot_20x20_600mm" {
     ext = "fcstd://b_OTS_0009_20x20_v_slot_600mm1_001_"
-    label = "OTS-0009_20x20_v_slot_600mm1_20x20_v_slot_600mm v2_001"
+    label = "vslot-extrusion-20mmx20mmx600mm004"
 
     artifact "model" {
-        filename = "d632df1e.brp"
-        source = "file://artifact/d632df1e.brp"
+        filename = "fdacaafa.brp"
+        source = "file://artifact/fdacaafa.brp"
         tag = "model"
     }
 }
 
 item "v_slot_roller" {
     ext = "fcstd://b_OTS_0011_v_slot_roller1_001_"
-    label = "OTS-0011_v-slot-roller1_001"
+    label = "vslot-roller009"
 
     artifact "model" {
-        filename = "18753cd2.brp"
-        source = "file://artifact/18753cd2.brp"
+        filename = "04d3ef99.brp"
+        source = "file://artifact/04d3ef99.brp"
         tag = "model"
     }
 }
 
 item "linear_rail_100mm_LML9B1" {
     ext = "fcstd://b_OTS_0014_linear_rail_100mm_LML9B1_001_"
-    label = "OTS-0014_linear-rail-100mm-LML9B1_001"
+    label = "LML9B-linear-rail-100mm001"
 
     artifact "model" {
-        filename = "1b3e62b4.brp"
-        source = "file://artifact/1b3e62b4.brp"
-        tag = "model"
-    }
-}
-
-item "linear_rail_100mm_LML9B1_" {
-    ext = "fcstd://b_OTS_0014_linear_rail_100mm_LML9B1_001_001"
-    label = "OTS-0014_linear-rail-100mm-LML9B1_002"
-
-    artifact "model" {
-        filename = "ac822c40.brp"
-        source = "file://artifact/ac822c40.brp"
+        filename = "5b9f784b.brp"
+        source = "file://artifact/5b9f784b.brp"
         tag = "model"
     }
 }
 
 item "index_motherboard" {
     ext = "fcstd://b_OTS_0020_index_motherboard1_001_"
-    label = "PCB-0001-00_index_motherboard"
+    label = "motherboard"
 
     artifact "model" {
-        filename = "f9d2c3f2.brp"
-        source = "file://artifact/f9d2c3f2.brp"
+        filename = "ee1c37c0.brp"
+        source = "file://artifact/ee1c37c0.brp"
         tag = "model"
     }
 }
